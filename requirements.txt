@@ -1,0 +1,28 @@
+# Core data analysis
+pandas            # Data manipulation and cleaning
+numpy             # Numerical operations and arrays
+
+# Visualization libraries
+matplotlib        # Basic plotting
+seaborn           # Statistical visualization
+
+# Dataset import (Kaggle)
+kagglehub         # Direct dataset download from Kaggle
+kaggle            # Kaggle API (optional)
+
+# Machine Learning / Modeling
+scikit-learn      # ML models, preprocessing, metrics
+statsmodels       # Statistical modeling
+
+
+# Utilities & Helpers
+tqdm              # Progress bars
+python-dateutil   # Robust date parsing
+
+# Development & notebooks
+jupyter           # Notebook environment
+notebook          # Jupyter backend
+pytest            # Testing
+black             # Code formatting
+flake8            # Code linting
+
