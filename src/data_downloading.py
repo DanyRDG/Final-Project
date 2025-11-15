@@ -3,14 +3,11 @@ import shutil
 import pandas as pd
 import kagglehub
 
-# ================================================================
-#  ORIGINAL FUNCTIONS (matches + countries dataset)
-# ================================================================
 
 def download_dataset(destination: str = "Final-Project/data/raw"):
     """
     Download the 'All International Football Results' dataset from KaggleHub.
-    Saves:
+    Saves those files:
         - all_matches.csv
         - countries_names.csv
     """
@@ -63,27 +60,23 @@ def load_full_data(raw_dir: str = "Final-Project/data/raw") -> dict:
 
     # If missing: download automatically
     if not match_file.exists() or not countries_file.exists():
-        print("⚠️ Main data missing → downloading...")
+        print(" Main data missing → downloading...")
         download_dataset(raw_dir)
 
-    # Load matches
+    # Load matches file
     matches = pd.read_csv(match_file, parse_dates=["date"])
     print(f"✅ Loaded all_matches.csv → {len(matches):,} rows")
 
-    # Load countries
+    # Load countries file
     if countries_file.exists():
         countries = pd.read_csv(countries_file)
         print(f"✅ Loaded countries_names.csv → {len(countries):,} rows")
     else:
-        print("⚠️ No countries file found.")
+        print("No countries file found.")
         countries = None
 
     return {"matches": matches, "countries": countries}
 
-
-# ================================================================
-#  NEW FUNCTIONS (penalty shootouts + unified download)
-# ================================================================
 
 def download_shootouts_dataset(destination: str = "Final-Project/data/raw"):
     """
@@ -96,7 +89,7 @@ def download_shootouts_dataset(destination: str = "Final-Project/data/raw"):
     target = dest / "penalty_shootouts.csv"
 
     if target.exists():
-        print("📦 Penalty shootouts dataset already exists.")
+        print("Penalty shootouts dataset already exists.")
         return
 
     dataset_id = "muhammadehsan02/global-football-results-18722024"
@@ -115,7 +108,7 @@ def download_shootouts_dataset(destination: str = "Final-Project/data/raw"):
             print(f"   → Saved penalty_shootouts.csv")
             return
 
-    raise FileNotFoundError("❌ penalty_shootouts.csv not found in dataset!")
+    raise FileNotFoundError("penalty_shootouts.csv not found in dataset!")
 
 
 def download_all_data(destination: str = "Final-Project/data/raw"):
@@ -129,7 +122,7 @@ def download_all_data(destination: str = "Final-Project/data/raw"):
     download_dataset(destination)
     download_shootouts_dataset(destination)
 
-    print("\n🎉 All datasets downloaded successfully!\n")
+    print("\n All datasets downloaded successfully!\n")
 
 
 def load_all_data(raw_dir: str = "Final-Project/data/raw") -> dict:
@@ -155,7 +148,7 @@ def load_all_data(raw_dir: str = "Final-Project/data/raw") -> dict:
         shootouts = pd.read_csv(shootout_file, parse_dates=["date"])
         print(f"✅ Loaded penalty shootouts → {len(shootouts):,} rows")
     else:
-        print("⚠️ No penalty_shootouts.csv found.")
+        print("No penalty_shootouts.csv found.")
         shootouts = None
 
     data["shootouts"] = shootouts
