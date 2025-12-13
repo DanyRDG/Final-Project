@@ -14,31 +14,41 @@ Planned Approach & Technologies
 The project will use Python (pandas, NumPy, matplotlib, statsmodels) for data processing, statistical modeling and visualization if possible.
 Data preparation:
 
-• Filter international matches involving national teams around 2010 and only those
-competiting in the tournaments.
+• Filter international matches keeping only the games from 2000 and onward.
 
-• Identify major tournaments (World Cup, Euro, Copa América, African Cup of Nations).
+• Identify major tournaments (World Cup, Euro, Copa América, African Cup of Nations, etc...) to then create a dataset with the resutls of those tournaments since 2010.
 
-• Compute pre-tournament “form metrics” based on each team’s matches before the
-competition:
+• Create an elo system for every national team
 
-o Points per match
+• Compute pre-tournament “form metrics” based on each team’s N (Most likely 12) games before the competition like:
 
-o Average goal difference
+o Team's pre-tournament elo
 
-o Win percentage and streak
+o Win rate
 
-o Goals scored and conceded per match
+o Average goal scored/game
 
-o Optional: opponent strength weighting
+o Average goal conceded/game
+
+o Goal difference/game
+
+o Average elo of opponents on those N games
+
+I will also use the infos we have before the tournaments as the groups composition to use those metrics:
+
+o Elo average of opponents inside the group
+
+o Elo rank inside the group
 
 Modeling & Analysis
 
-• Define the target variable as the level of success (Winner / Finalist / Semifinalist / Eliminated earlier).
+• Define the target variable as the level of success (Winner / Finalist / Semifinalist / Round of 16 / Group stage etc). Then those will be redifined as "Deep run" "Knockouts" or "Group stage2
 
 • To determine how well form metrics predict success, use logistic or ordinal regression and correlation analysis.
 
 • Test the model on previous tournaments to evaluate predictive robustness.
+
+• I’ll use a leave-one-tournament-out validation approach. This way, the model trains on all but one tournament and tests on the remaining one, rotating each time.
 
 • Visualize trends with heatmaps, regression plots, and performance distributions for champions vs. others.
 
@@ -47,10 +57,11 @@ Expected Challenges & Mitigation
 • Missing contextual factors: External influences like injuries, travel, or team
 chemistry aren’t captured in the dataset.
 
-• Ambiguity in defining “form”: Compare multiple definitions (last 5 vs. 10 games,
-weighted by opponent quality).
+• Ambiguity in defining “form”: Compare multiple definitions (last 5 vs. 10 games, weighted by opponent quality).
 
 • Small number of tournaments
+
+• Tournaments have small number of games per team, anything can happen 
 
 Success Criteria
 
@@ -59,8 +70,7 @@ The project will be successful if:
 • It produces clear quantitative evidence (correlations, regression coefficients) about the impact of pre-tournament form.
 
 • The predictive model achieves consistent accuracy across different competitions.
+
 Stretch Goals (if time permits)
 
 • Extend the analysis to tournaments after 2025 and try to predict the winner of the next world cup in 2026.
-
-• Incorporate Elo ratings or FIFA rankings to measure “strength-adjusted form.”
