@@ -18,9 +18,7 @@ Thumbs.db
 .venv/
 env/
 venv/
-.conda/
-conda-meta/
-envs/
+
 
 # ---- Logs ----
 *.log
