@@ -1,0 +1,57 @@
+# ---- Python cache ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
+
+# ---- Virtual envs ----
+.env/
+.venv/
+env/
+venv/
+.conda/
+conda-meta/
+envs/
+
+# ---- Logs ----
+*.log
+*.out
+*.tmp
+
+# ---- Data ----
+data/raw/
+data/processed/
+data/interim/
+data/external/
+
+# ---- Credentials / Kaggle ----
+.kaggle/
+.kagglehub/
+kaggle.json
+secrets.json
+api_keys.json
+
+# ---- IDE / Editor files ----
+.vscode/
+.idea/
+*.code-workspace
+
+# ---- Build / Artifacts ----
+build/
+dist/
+models/
+outputs/
+reports/
+checkpoints/
+
+# ---- Misc ----
+*.swp
+*.bak
