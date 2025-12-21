@@ -70,14 +70,14 @@ def build_tournaments_info(results_path: Path, output_path: Path):
     summary.to_csv(output_path, index=False)
     
     print(f"✅ tournaments_info.csv created successfully at: {output_path}")
-    print(f"📅 Total tournaments found: {len(summary)}")
+    print(f"Total tournaments found: {len(summary)}")
     return summary
 
 
 # 2.RUNNING CODE COMMAND
 
 if __name__ == "__main__":
-    print("🏁 Running tournament_builder.py...")
+    print("Running tournament_builder.py...")
     
     # Set up paths
     project_root = Path(__file__).resolve().parents[1]
@@ -88,5 +88,5 @@ if __name__ == "__main__":
     tournaments_info = build_tournaments_info(results_file, output_file)
     
     # Display sample
-    print("\n📊 Sample of tournaments_info:")
+    print("\nSample of tournaments_info:")
     print(tournaments_info.head(10))
