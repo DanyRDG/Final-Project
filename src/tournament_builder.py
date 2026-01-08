@@ -31,7 +31,7 @@ def build_tournaments_info(results_path: Path, output_path: Path):
     Build tournaments_info.csv from cleaned match results.
     Keeps only the main tournaments defined in TOURNAMENT_INFO.
     """
-    print(f"\n🏗️ Building tournaments_info.csv from {results_path.name}...")
+    print(f"\n Building tournaments_info.csv from {results_path.name}...")
     
     # Load data and normalize tournament names to lowercases
     df = pd.read_csv(results_path, parse_dates=["date"])

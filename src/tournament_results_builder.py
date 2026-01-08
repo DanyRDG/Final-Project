@@ -149,7 +149,7 @@ def sort_by_stage(df):
 
 def build_tournament_results(results_df, shootouts_df, tournaments_info, output_path: Path):
     """Build tournaments_results.csv excluding irregular tournaments (2000+ only)."""
-    print("\n🏗️ Building tournaments_results.csv (2000 onward)...")
+    print("\n Building tournaments_results.csv (2000 onward)...")
 
     tournaments_info.columns = tournaments_info.columns.str.lower()
 
