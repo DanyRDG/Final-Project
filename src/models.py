@@ -209,6 +209,10 @@ def loto_evaluation(df: pd.DataFrame, model_type: str = "logreg"):
         # Shape: (n_teams, n_classes) where each row sums to 1.0
         probs = model.predict_proba(X_test_scaled)
         prob_df = pd.DataFrame(probs, columns=[stage_map[i] for i in model.classes_])
+        
+        # Round probabilities to 5 decimal places for easier CSV readability
+        prob_df = prob_df.round(5)
+        
         temp = pd.concat([test_df.reset_index(drop=True), prob_df], axis=1)
 
         # Compute overall tournament success score

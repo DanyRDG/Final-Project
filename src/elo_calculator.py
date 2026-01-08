@@ -148,11 +148,11 @@ def compute_elo_ratings(matches: pd.DataFrame, config: EloConfig = None) -> pd.D
         current_ratings[home] = home_new
         current_ratings[away] = away_new
 
-        # Store ratings for the match
-        pre_home.append(home_rating)
-        pre_away.append(away_rating)
-        post_home.append(home_new)
-        post_away.append(away_new)
+        # Store ratings for the match (rounded to 2 decimal places)
+        pre_home.append(round(home_rating, 2))
+        pre_away.append(round(away_rating, 2))
+        post_home.append(round(home_new, 2))
+        post_away.append(round(away_new, 2))
 
     # Add rating columns to dataframe
     df["home_elo_pre"] = pre_home
@@ -192,6 +192,9 @@ def build_elo_timeseries(matches_with_elo: pd.DataFrame) -> pd.DataFrame:
         .sort_values(["team", "date"])
         .reset_index(drop=True)
     )
+    
+    # Round Elo ratings to 2 decimal places
+    timeseries["elo"] = timeseries["elo"].round(2)
 
     return timeseries
     
@@ -218,8 +221,8 @@ def get_team_rating_before_date(
     if team_history.empty:
         return default_rating
     
-    # Return the most recent rating
-    return float(team_history.sort_values("date")["elo"].iloc[-1])
+    # Return the most recent rating (rounded to 2 decimal places)
+    return round(float(team_history.sort_values("date")["elo"].iloc[-1]), 2)
 
 
 # 6. BUILDING CODE FOR THE FILES
