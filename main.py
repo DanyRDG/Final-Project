@@ -39,7 +39,6 @@ from src.World_Cup2026 import (
     load_pre_tournament_features,
     predict_worldcup_2026
 )
-from src.Visualization import generate_all_visualizations
 
 def main():
     print("\n========== FOOTBALL PROJECT DATA PIPELINE ==========\n")
