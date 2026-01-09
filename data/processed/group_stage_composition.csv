@@ -1,0 +1,931 @@
+tournament,year,team,group
+afc asian cup,2000,Iran,A
+afc asian cup,2000,Iraq,A
+afc asian cup,2000,Lebanon,A
+afc asian cup,2000,Thailand,A
+afc asian cup,2000,China PR,B
+afc asian cup,2000,Indonesia,B
+afc asian cup,2000,Kuwait,B
+afc asian cup,2000,South Korea,B
+afc asian cup,2000,Japan,C
+afc asian cup,2000,Qatar,C
+afc asian cup,2000,Saudi Arabia,C
+afc asian cup,2000,Uzbekistan,C
+african cup of nations,2000,Cameroon,A
+african cup of nations,2000,Ghana,A
+african cup of nations,2000,Ivory Coast,A
+african cup of nations,2000,Togo,A
+african cup of nations,2000,Burkina Faso,B
+african cup of nations,2000,Egypt,B
+african cup of nations,2000,Senegal,B
+african cup of nations,2000,Zambia,B
+african cup of nations,2000,Congo,C
+african cup of nations,2000,Morocco,C
+african cup of nations,2000,Nigeria,C
+african cup of nations,2000,Tunisia,C
+african cup of nations,2000,Algeria,D
+african cup of nations,2000,DR Congo,D
+african cup of nations,2000,Gabon,D
+african cup of nations,2000,South Africa,D
+uefa euro,2000,Belgium,A
+uefa euro,2000,Italy,A
+uefa euro,2000,Sweden,A
+uefa euro,2000,Turkey,A
+uefa euro,2000,Czech Republic,B
+uefa euro,2000,Denmark,B
+uefa euro,2000,France,B
+uefa euro,2000,Netherlands,B
+uefa euro,2000,England,C
+uefa euro,2000,Germany,C
+uefa euro,2000,Portugal,C
+uefa euro,2000,Romania,C
+uefa euro,2000,Norway,D
+uefa euro,2000,Serbia,D
+uefa euro,2000,Slovenia,D
+uefa euro,2000,Spain,D
+copa américa,2001,Chile,A
+copa américa,2001,Colombia,A
+copa américa,2001,Ecuador,A
+copa américa,2001,Venezuela,A
+copa américa,2001,Brazil,B
+copa américa,2001,Mexico,B
+copa américa,2001,Paraguay,B
+copa américa,2001,Peru,B
+copa américa,2001,Bolivia,C
+copa américa,2001,Costa Rica,C
+copa américa,2001,Honduras,C
+copa américa,2001,Uruguay,C
+african cup of nations,2002,Algeria,A
+african cup of nations,2002,Liberia,A
+african cup of nations,2002,Mali,A
+african cup of nations,2002,Nigeria,A
+african cup of nations,2002,Cameroon,B
+african cup of nations,2002,DR Congo,B
+african cup of nations,2002,Ivory Coast,B
+african cup of nations,2002,Togo,B
+african cup of nations,2002,Egypt,C
+african cup of nations,2002,Senegal,C
+african cup of nations,2002,Tunisia,C
+african cup of nations,2002,Zambia,C
+african cup of nations,2002,Burkina Faso,D
+african cup of nations,2002,Ghana,D
+african cup of nations,2002,Morocco,D
+african cup of nations,2002,South Africa,D
+fifa world cup,2002,Denmark,A
+fifa world cup,2002,France,A
+fifa world cup,2002,Senegal,A
+fifa world cup,2002,Uruguay,A
+fifa world cup,2002,Cameroon,B
+fifa world cup,2002,Germany,B
+fifa world cup,2002,Republic of Ireland,B
+fifa world cup,2002,Saudi Arabia,B
+fifa world cup,2002,Argentina,C
+fifa world cup,2002,England,C
+fifa world cup,2002,Nigeria,C
+fifa world cup,2002,Sweden,C
+fifa world cup,2002,Paraguay,D
+fifa world cup,2002,Slovenia,D
+fifa world cup,2002,South Africa,D
+fifa world cup,2002,Spain,D
+fifa world cup,2002,Brazil,E
+fifa world cup,2002,China PR,E
+fifa world cup,2002,Costa Rica,E
+fifa world cup,2002,Turkey,E
+fifa world cup,2002,Croatia,F
+fifa world cup,2002,Ecuador,F
+fifa world cup,2002,Italy,F
+fifa world cup,2002,Mexico,F
+fifa world cup,2002,Belgium,G
+fifa world cup,2002,Japan,G
+fifa world cup,2002,Russia,G
+fifa world cup,2002,Tunisia,G
+fifa world cup,2002,Poland,H
+fifa world cup,2002,Portugal,H
+fifa world cup,2002,South Korea,H
+fifa world cup,2002,United States,H
+afc asian cup,2004,Bahrain,A
+afc asian cup,2004,China PR,A
+afc asian cup,2004,Indonesia,A
+afc asian cup,2004,Qatar,A
+afc asian cup,2004,Iraq,B
+afc asian cup,2004,Saudi Arabia,B
+afc asian cup,2004,Turkmenistan,B
+afc asian cup,2004,Uzbekistan,B
+afc asian cup,2004,Jordan,C
+afc asian cup,2004,Kuwait,C
+afc asian cup,2004,South Korea,C
+afc asian cup,2004,United Arab Emirates,C
+afc asian cup,2004,Iran,D
+afc asian cup,2004,Japan,D
+afc asian cup,2004,Oman,D
+afc asian cup,2004,Thailand,D
+african cup of nations,2004,DR Congo,A
+african cup of nations,2004,Guinea,A
+african cup of nations,2004,Rwanda,A
+african cup of nations,2004,Tunisia,A
+african cup of nations,2004,Algeria,B
+african cup of nations,2004,Cameroon,B
+african cup of nations,2004,Egypt,B
+african cup of nations,2004,Zimbabwe,B
+african cup of nations,2004,Burkina Faso,C
+african cup of nations,2004,Kenya,C
+african cup of nations,2004,Mali,C
+african cup of nations,2004,Senegal,C
+african cup of nations,2004,Benin,D
+african cup of nations,2004,Morocco,D
+african cup of nations,2004,Nigeria,D
+african cup of nations,2004,South Africa,D
+copa américa,2004,Bolivia,A
+copa américa,2004,Colombia,A
+copa américa,2004,Peru,A
+copa américa,2004,Venezuela,A
+copa américa,2004,Argentina,B
+copa américa,2004,Ecuador,B
+copa américa,2004,Mexico,B
+copa américa,2004,Uruguay,B
+copa américa,2004,Brazil,C
+copa américa,2004,Chile,C
+copa américa,2004,Costa Rica,C
+copa américa,2004,Paraguay,C
+uefa euro,2004,Greece,A
+uefa euro,2004,Portugal,A
+uefa euro,2004,Russia,A
+uefa euro,2004,Spain,A
+uefa euro,2004,Croatia,B
+uefa euro,2004,England,B
+uefa euro,2004,France,B
+uefa euro,2004,Switzerland,B
+uefa euro,2004,Bulgaria,C
+uefa euro,2004,Denmark,C
+uefa euro,2004,Italy,C
+uefa euro,2004,Sweden,C
+uefa euro,2004,Czech Republic,D
+uefa euro,2004,Germany,D
+uefa euro,2004,Latvia,D
+uefa euro,2004,Netherlands,D
+gold cup,2005,Colombia,A
+gold cup,2005,Honduras,A
+gold cup,2005,Panama,A
+gold cup,2005,Trinidad and Tobago,A
+gold cup,2005,Canada,B
+gold cup,2005,Costa Rica,B
+gold cup,2005,Cuba,B
+gold cup,2005,United States,B
+gold cup,2005,Guatemala,C
+gold cup,2005,Jamaica,C
+gold cup,2005,Mexico,C
+gold cup,2005,South Africa,C
+african cup of nations,2006,Egypt,A
+african cup of nations,2006,Ivory Coast,A
+african cup of nations,2006,Libya,A
+african cup of nations,2006,Morocco,A
+african cup of nations,2006,Angola,B
+african cup of nations,2006,Cameroon,B
+african cup of nations,2006,DR Congo,B
+african cup of nations,2006,Togo,B
+african cup of nations,2006,Guinea,C
+african cup of nations,2006,South Africa,C
+african cup of nations,2006,Tunisia,C
+african cup of nations,2006,Zambia,C
+african cup of nations,2006,Ghana,D
+african cup of nations,2006,Nigeria,D
+african cup of nations,2006,Senegal,D
+african cup of nations,2006,Zimbabwe,D
+fifa world cup,2006,Costa Rica,A
+fifa world cup,2006,Ecuador,A
+fifa world cup,2006,Germany,A
+fifa world cup,2006,Poland,A
+fifa world cup,2006,Argentina,B
+fifa world cup,2006,Ivory Coast,B
+fifa world cup,2006,Netherlands,B
+fifa world cup,2006,Serbia,B
+fifa world cup,2006,England,C
+fifa world cup,2006,Paraguay,C
+fifa world cup,2006,Sweden,C
+fifa world cup,2006,Trinidad and Tobago,C
+fifa world cup,2006,Angola,D
+fifa world cup,2006,Iran,D
+fifa world cup,2006,Mexico,D
+fifa world cup,2006,Portugal,D
+fifa world cup,2006,Australia,E
+fifa world cup,2006,Brazil,E
+fifa world cup,2006,Croatia,E
+fifa world cup,2006,Japan,E
+fifa world cup,2006,Czech Republic,F
+fifa world cup,2006,Ghana,F
+fifa world cup,2006,Italy,F
+fifa world cup,2006,United States,F
+fifa world cup,2006,France,G
+fifa world cup,2006,South Korea,G
+fifa world cup,2006,Switzerland,G
+fifa world cup,2006,Togo,G
+fifa world cup,2006,Saudi Arabia,H
+fifa world cup,2006,Spain,H
+fifa world cup,2006,Tunisia,H
+fifa world cup,2006,Ukraine,H
+afc asian cup,2007,Australia,A
+afc asian cup,2007,Iraq,A
+afc asian cup,2007,Oman,A
+afc asian cup,2007,Thailand,A
+afc asian cup,2007,Japan,B
+afc asian cup,2007,Qatar,B
+afc asian cup,2007,United Arab Emirates,B
+afc asian cup,2007,Vietnam,B
+afc asian cup,2007,Bahrain,C
+afc asian cup,2007,Indonesia,C
+afc asian cup,2007,Saudi Arabia,C
+afc asian cup,2007,South Korea,C
+afc asian cup,2007,China PR,D
+afc asian cup,2007,Iran,D
+afc asian cup,2007,Malaysia,D
+afc asian cup,2007,Uzbekistan,D
+copa américa,2007,Bolivia,A
+copa américa,2007,Peru,A
+copa américa,2007,Uruguay,A
+copa américa,2007,Venezuela,A
+copa américa,2007,Brazil,B
+copa américa,2007,Chile,B
+copa américa,2007,Ecuador,B
+copa américa,2007,Mexico,B
+copa américa,2007,Argentina,C
+copa américa,2007,Colombia,C
+copa américa,2007,Paraguay,C
+copa américa,2007,United States,C
+gold cup,2007,Canada,A
+gold cup,2007,Costa Rica,A
+gold cup,2007,Guadeloupe,A
+gold cup,2007,Haiti,A
+gold cup,2007,El Salvador,B
+gold cup,2007,Guatemala,B
+gold cup,2007,Trinidad and Tobago,B
+gold cup,2007,United States,B
+gold cup,2007,Cuba,C
+gold cup,2007,Honduras,C
+gold cup,2007,Mexico,C
+gold cup,2007,Panama,C
+african cup of nations,2008,Ghana,A
+african cup of nations,2008,Guinea,A
+african cup of nations,2008,Morocco,A
+african cup of nations,2008,Namibia,A
+african cup of nations,2008,Benin,B
+african cup of nations,2008,Ivory Coast,B
+african cup of nations,2008,Mali,B
+african cup of nations,2008,Nigeria,B
+african cup of nations,2008,Cameroon,C
+african cup of nations,2008,Egypt,C
+african cup of nations,2008,Sudan,C
+african cup of nations,2008,Zambia,C
+african cup of nations,2008,Angola,D
+african cup of nations,2008,Senegal,D
+african cup of nations,2008,South Africa,D
+african cup of nations,2008,Tunisia,D
+uefa euro,2008,Czech Republic,A
+uefa euro,2008,Portugal,A
+uefa euro,2008,Switzerland,A
+uefa euro,2008,Turkey,A
+uefa euro,2008,Austria,B
+uefa euro,2008,Croatia,B
+uefa euro,2008,Germany,B
+uefa euro,2008,Poland,B
+uefa euro,2008,France,C
+uefa euro,2008,Italy,C
+uefa euro,2008,Netherlands,C
+uefa euro,2008,Romania,C
+uefa euro,2008,Greece,D
+uefa euro,2008,Russia,D
+uefa euro,2008,Spain,D
+uefa euro,2008,Sweden,D
+gold cup,2009,Canada,A
+gold cup,2009,Costa Rica,A
+gold cup,2009,El Salvador,A
+gold cup,2009,Jamaica,A
+gold cup,2009,Grenada,B
+gold cup,2009,Haiti,B
+gold cup,2009,Honduras,B
+gold cup,2009,United States,B
+gold cup,2009,Guadeloupe,C
+gold cup,2009,Mexico,C
+gold cup,2009,Nicaragua,C
+gold cup,2009,Panama,C
+fifa world cup,2010,France,A
+fifa world cup,2010,Mexico,A
+fifa world cup,2010,South Africa,A
+fifa world cup,2010,Uruguay,A
+fifa world cup,2010,Argentina,B
+fifa world cup,2010,Greece,B
+fifa world cup,2010,Nigeria,B
+fifa world cup,2010,South Korea,B
+fifa world cup,2010,Algeria,C
+fifa world cup,2010,England,C
+fifa world cup,2010,Slovenia,C
+fifa world cup,2010,United States,C
+fifa world cup,2010,Australia,D
+fifa world cup,2010,Germany,D
+fifa world cup,2010,Ghana,D
+fifa world cup,2010,Serbia,D
+fifa world cup,2010,Italy,E
+fifa world cup,2010,New Zealand,E
+fifa world cup,2010,Paraguay,E
+fifa world cup,2010,Slovakia,E
+fifa world cup,2010,Cameroon,F
+fifa world cup,2010,Denmark,F
+fifa world cup,2010,Japan,F
+fifa world cup,2010,Netherlands,F
+fifa world cup,2010,Brazil,G
+fifa world cup,2010,Ivory Coast,G
+fifa world cup,2010,North Korea,G
+fifa world cup,2010,Portugal,G
+fifa world cup,2010,Chile,H
+fifa world cup,2010,Honduras,H
+fifa world cup,2010,Spain,H
+fifa world cup,2010,Switzerland,H
+afc asian cup,2011,China PR,A
+afc asian cup,2011,Kuwait,A
+afc asian cup,2011,Qatar,A
+afc asian cup,2011,Uzbekistan,A
+afc asian cup,2011,Japan,B
+afc asian cup,2011,Jordan,B
+afc asian cup,2011,Saudi Arabia,B
+afc asian cup,2011,Syria,B
+afc asian cup,2011,Australia,C
+afc asian cup,2011,Bahrain,C
+afc asian cup,2011,India,C
+afc asian cup,2011,South Korea,C
+afc asian cup,2011,Iran,D
+afc asian cup,2011,Iraq,D
+afc asian cup,2011,North Korea,D
+afc asian cup,2011,United Arab Emirates,D
+copa américa,2011,Argentina,A
+copa américa,2011,Bolivia,A
+copa américa,2011,Colombia,A
+copa américa,2011,Costa Rica,A
+copa américa,2011,Brazil,B
+copa américa,2011,Ecuador,B
+copa américa,2011,Paraguay,B
+copa américa,2011,Venezuela,B
+copa américa,2011,Chile,C
+copa américa,2011,Mexico,C
+copa américa,2011,Peru,C
+copa américa,2011,Uruguay,C
+gold cup,2011,Costa Rica,A
+gold cup,2011,Cuba,A
+gold cup,2011,El Salvador,A
+gold cup,2011,Mexico,A
+gold cup,2011,Grenada,B
+gold cup,2011,Guatemala,B
+gold cup,2011,Honduras,B
+gold cup,2011,Jamaica,B
+gold cup,2011,Canada,C
+gold cup,2011,Guadeloupe,C
+gold cup,2011,Panama,C
+gold cup,2011,United States,C
+african cup of nations,2012,Equatorial Guinea,A
+african cup of nations,2012,Libya,A
+african cup of nations,2012,Senegal,A
+african cup of nations,2012,Zambia,A
+african cup of nations,2012,Angola,B
+african cup of nations,2012,Burkina Faso,B
+african cup of nations,2012,Ivory Coast,B
+african cup of nations,2012,Sudan,B
+african cup of nations,2012,Gabon,C
+african cup of nations,2012,Morocco,C
+african cup of nations,2012,Niger,C
+african cup of nations,2012,Tunisia,C
+african cup of nations,2012,Botswana,D
+african cup of nations,2012,Ghana,D
+african cup of nations,2012,Guinea,D
+african cup of nations,2012,Mali,D
+uefa euro,2012,Czech Republic,A
+uefa euro,2012,Greece,A
+uefa euro,2012,Poland,A
+uefa euro,2012,Russia,A
+uefa euro,2012,Denmark,B
+uefa euro,2012,Germany,B
+uefa euro,2012,Netherlands,B
+uefa euro,2012,Portugal,B
+uefa euro,2012,Croatia,C
+uefa euro,2012,Italy,C
+uefa euro,2012,Republic of Ireland,C
+uefa euro,2012,Spain,C
+uefa euro,2012,England,D
+uefa euro,2012,France,D
+uefa euro,2012,Sweden,D
+uefa euro,2012,Ukraine,D
+african cup of nations,2013,Angola,A
+african cup of nations,2013,Cape Verde,A
+african cup of nations,2013,Morocco,A
+african cup of nations,2013,South Africa,A
+african cup of nations,2013,DR Congo,B
+african cup of nations,2013,Ghana,B
+african cup of nations,2013,Mali,B
+african cup of nations,2013,Niger,B
+african cup of nations,2013,Burkina Faso,C
+african cup of nations,2013,Ethiopia,C
+african cup of nations,2013,Nigeria,C
+african cup of nations,2013,Zambia,C
+african cup of nations,2013,Algeria,D
+african cup of nations,2013,Ivory Coast,D
+african cup of nations,2013,Togo,D
+african cup of nations,2013,Tunisia,D
+gold cup,2013,Canada,A
+gold cup,2013,Martinique,A
+gold cup,2013,Mexico,A
+gold cup,2013,Panama,A
+gold cup,2013,El Salvador,B
+gold cup,2013,Haiti,B
+gold cup,2013,Honduras,B
+gold cup,2013,Trinidad and Tobago,B
+gold cup,2013,Belize,C
+gold cup,2013,Costa Rica,C
+gold cup,2013,Cuba,C
+gold cup,2013,United States,C
+fifa world cup,2014,Brazil,A
+fifa world cup,2014,Cameroon,A
+fifa world cup,2014,Croatia,A
+fifa world cup,2014,Mexico,A
+fifa world cup,2014,Australia,B
+fifa world cup,2014,Chile,B
+fifa world cup,2014,Netherlands,B
+fifa world cup,2014,Spain,B
+fifa world cup,2014,Colombia,C
+fifa world cup,2014,Greece,C
+fifa world cup,2014,Ivory Coast,C
+fifa world cup,2014,Japan,C
+fifa world cup,2014,Costa Rica,D
+fifa world cup,2014,England,D
+fifa world cup,2014,Italy,D
+fifa world cup,2014,Uruguay,D
+fifa world cup,2014,Argentina,E
+fifa world cup,2014,Bosnia and Herzegovina,E
+fifa world cup,2014,Iran,E
+fifa world cup,2014,Nigeria,E
+fifa world cup,2014,Ecuador,F
+fifa world cup,2014,France,F
+fifa world cup,2014,Honduras,F
+fifa world cup,2014,Switzerland,F
+fifa world cup,2014,Germany,G
+fifa world cup,2014,Ghana,G
+fifa world cup,2014,Portugal,G
+fifa world cup,2014,United States,G
+fifa world cup,2014,Algeria,H
+fifa world cup,2014,Belgium,H
+fifa world cup,2014,Russia,H
+fifa world cup,2014,South Korea,H
+afc asian cup,2015,Australia,A
+afc asian cup,2015,Kuwait,A
+afc asian cup,2015,Oman,A
+afc asian cup,2015,South Korea,A
+afc asian cup,2015,China PR,B
+afc asian cup,2015,North Korea,B
+afc asian cup,2015,Saudi Arabia,B
+afc asian cup,2015,Uzbekistan,B
+afc asian cup,2015,Bahrain,C
+afc asian cup,2015,Iran,C
+afc asian cup,2015,Qatar,C
+afc asian cup,2015,United Arab Emirates,C
+afc asian cup,2015,Iraq,D
+afc asian cup,2015,Japan,D
+afc asian cup,2015,Jordan,D
+afc asian cup,2015,Palestine,D
+african cup of nations,2015,Burkina Faso,A
+african cup of nations,2015,Congo,A
+african cup of nations,2015,Equatorial Guinea,A
+african cup of nations,2015,Gabon,A
+african cup of nations,2015,Cape Verde,B
+african cup of nations,2015,DR Congo,B
+african cup of nations,2015,Tunisia,B
+african cup of nations,2015,Zambia,B
+african cup of nations,2015,Algeria,C
+african cup of nations,2015,Ghana,C
+african cup of nations,2015,Senegal,C
+african cup of nations,2015,South Africa,C
+african cup of nations,2015,Cameroon,D
+african cup of nations,2015,Guinea,D
+african cup of nations,2015,Ivory Coast,D
+african cup of nations,2015,Mali,D
+copa américa,2015,Bolivia,A
+copa américa,2015,Chile,A
+copa américa,2015,Ecuador,A
+copa américa,2015,Mexico,A
+copa américa,2015,Argentina,B
+copa américa,2015,Jamaica,B
+copa américa,2015,Paraguay,B
+copa américa,2015,Uruguay,B
+copa américa,2015,Brazil,C
+copa américa,2015,Colombia,C
+copa américa,2015,Peru,C
+copa américa,2015,Venezuela,C
+gold cup,2015,Haiti,A
+gold cup,2015,Honduras,A
+gold cup,2015,Panama,A
+gold cup,2015,United States,A
+gold cup,2015,Canada,B
+gold cup,2015,Costa Rica,B
+gold cup,2015,El Salvador,B
+gold cup,2015,Jamaica,B
+gold cup,2015,Cuba,C
+gold cup,2015,Guatemala,C
+gold cup,2015,Mexico,C
+gold cup,2015,Trinidad and Tobago,C
+copa américa,2016,Colombia,A
+copa américa,2016,Costa Rica,A
+copa américa,2016,Paraguay,A
+copa américa,2016,United States,A
+copa américa,2016,Brazil,B
+copa américa,2016,Ecuador,B
+copa américa,2016,Haiti,B
+copa américa,2016,Peru,B
+copa américa,2016,Jamaica,C
+copa américa,2016,Mexico,C
+copa américa,2016,Uruguay,C
+copa américa,2016,Venezuela,C
+copa américa,2016,Argentina,D
+copa américa,2016,Bolivia,D
+copa américa,2016,Chile,D
+copa américa,2016,Panama,D
+uefa euro,2016,Albania,A
+uefa euro,2016,France,A
+uefa euro,2016,Romania,A
+uefa euro,2016,Switzerland,A
+uefa euro,2016,England,B
+uefa euro,2016,Russia,B
+uefa euro,2016,Slovakia,B
+uefa euro,2016,Wales,B
+uefa euro,2016,Germany,C
+uefa euro,2016,Northern Ireland,C
+uefa euro,2016,Poland,C
+uefa euro,2016,Ukraine,C
+uefa euro,2016,Croatia,D
+uefa euro,2016,Czech Republic,D
+uefa euro,2016,Spain,D
+uefa euro,2016,Turkey,D
+uefa euro,2016,Belgium,E
+uefa euro,2016,Italy,E
+uefa euro,2016,Republic of Ireland,E
+uefa euro,2016,Sweden,E
+uefa euro,2016,Austria,F
+uefa euro,2016,Hungary,F
+uefa euro,2016,Iceland,F
+uefa euro,2016,Portugal,F
+african cup of nations,2017,Burkina Faso,A
+african cup of nations,2017,Cameroon,A
+african cup of nations,2017,Gabon,A
+african cup of nations,2017,Guinea-Bissau,A
+african cup of nations,2017,Algeria,B
+african cup of nations,2017,Senegal,B
+african cup of nations,2017,Tunisia,B
+african cup of nations,2017,Zimbabwe,B
+african cup of nations,2017,DR Congo,C
+african cup of nations,2017,Ivory Coast,C
+african cup of nations,2017,Morocco,C
+african cup of nations,2017,Togo,C
+african cup of nations,2017,Egypt,D
+african cup of nations,2017,Ghana,D
+african cup of nations,2017,Mali,D
+african cup of nations,2017,Uganda,D
+gold cup,2017,Canada,A
+gold cup,2017,Costa Rica,A
+gold cup,2017,French Guiana,A
+gold cup,2017,Honduras,A
+gold cup,2017,Martinique,B
+gold cup,2017,Nicaragua,B
+gold cup,2017,Panama,B
+gold cup,2017,United States,B
+gold cup,2017,Curaçao,C
+gold cup,2017,El Salvador,C
+gold cup,2017,Jamaica,C
+gold cup,2017,Mexico,C
+fifa world cup,2018,Egypt,A
+fifa world cup,2018,Russia,A
+fifa world cup,2018,Saudi Arabia,A
+fifa world cup,2018,Uruguay,A
+fifa world cup,2018,Iran,B
+fifa world cup,2018,Morocco,B
+fifa world cup,2018,Portugal,B
+fifa world cup,2018,Spain,B
+fifa world cup,2018,Australia,C
+fifa world cup,2018,Denmark,C
+fifa world cup,2018,France,C
+fifa world cup,2018,Peru,C
+fifa world cup,2018,Argentina,D
+fifa world cup,2018,Croatia,D
+fifa world cup,2018,Iceland,D
+fifa world cup,2018,Nigeria,D
+fifa world cup,2018,Brazil,E
+fifa world cup,2018,Costa Rica,E
+fifa world cup,2018,Serbia,E
+fifa world cup,2018,Switzerland,E
+fifa world cup,2018,Germany,F
+fifa world cup,2018,Mexico,F
+fifa world cup,2018,South Korea,F
+fifa world cup,2018,Sweden,F
+fifa world cup,2018,Belgium,G
+fifa world cup,2018,England,G
+fifa world cup,2018,Panama,G
+fifa world cup,2018,Tunisia,G
+fifa world cup,2018,Colombia,H
+fifa world cup,2018,Japan,H
+fifa world cup,2018,Poland,H
+fifa world cup,2018,Senegal,H
+afc asian cup,2019,Bahrain,A
+afc asian cup,2019,India,A
+afc asian cup,2019,Thailand,A
+afc asian cup,2019,United Arab Emirates,A
+afc asian cup,2019,Australia,B
+afc asian cup,2019,Jordan,B
+afc asian cup,2019,Palestine,B
+afc asian cup,2019,Syria,B
+afc asian cup,2019,China PR,C
+afc asian cup,2019,Kyrgyzstan,C
+afc asian cup,2019,Philippines,C
+afc asian cup,2019,South Korea,C
+afc asian cup,2019,Iran,D
+afc asian cup,2019,Iraq,D
+afc asian cup,2019,Vietnam,D
+afc asian cup,2019,Yemen,D
+afc asian cup,2019,Lebanon,E
+afc asian cup,2019,North Korea,E
+afc asian cup,2019,Qatar,E
+afc asian cup,2019,Saudi Arabia,E
+afc asian cup,2019,Japan,F
+afc asian cup,2019,Oman,F
+afc asian cup,2019,Turkmenistan,F
+afc asian cup,2019,Uzbekistan,F
+african cup of nations,2019,DR Congo,A
+african cup of nations,2019,Egypt,A
+african cup of nations,2019,Uganda,A
+african cup of nations,2019,Zimbabwe,A
+african cup of nations,2019,Burundi,B
+african cup of nations,2019,Guinea,B
+african cup of nations,2019,Madagascar,B
+african cup of nations,2019,Nigeria,B
+african cup of nations,2019,Algeria,C
+african cup of nations,2019,Kenya,C
+african cup of nations,2019,Senegal,C
+african cup of nations,2019,Tanzania,C
+african cup of nations,2019,Ivory Coast,D
+african cup of nations,2019,Morocco,D
+african cup of nations,2019,Namibia,D
+african cup of nations,2019,South Africa,D
+african cup of nations,2019,Angola,E
+african cup of nations,2019,Mali,E
+african cup of nations,2019,Mauritania,E
+african cup of nations,2019,Tunisia,E
+african cup of nations,2019,Benin,F
+african cup of nations,2019,Cameroon,F
+african cup of nations,2019,Ghana,F
+african cup of nations,2019,Guinea-Bissau,F
+copa américa,2019,Bolivia,A
+copa américa,2019,Brazil,A
+copa américa,2019,Peru,A
+copa américa,2019,Venezuela,A
+copa américa,2019,Argentina,B
+copa américa,2019,Colombia,B
+copa américa,2019,Paraguay,B
+copa américa,2019,Qatar,B
+copa américa,2019,Chile,C
+copa américa,2019,Ecuador,C
+copa américa,2019,Japan,C
+copa américa,2019,Uruguay,C
+gold cup,2019,Canada,A
+gold cup,2019,Cuba,A
+gold cup,2019,Martinique,A
+gold cup,2019,Mexico,A
+gold cup,2019,Bermuda,B
+gold cup,2019,Costa Rica,B
+gold cup,2019,Haiti,B
+gold cup,2019,Nicaragua,B
+gold cup,2019,Curaçao,C
+gold cup,2019,El Salvador,C
+gold cup,2019,Honduras,C
+gold cup,2019,Jamaica,C
+gold cup,2019,Guyana,D
+gold cup,2019,Panama,D
+gold cup,2019,Trinidad and Tobago,D
+gold cup,2019,United States,D
+copa américa,2021,Brazil,A
+copa américa,2021,Venezuela,B
+copa américa,2021,Colombia,C
+copa américa,2021,Ecuador,C
+copa américa,2021,Argentina,D
+copa américa,2021,Chile,E
+copa américa,2021,Uruguay,E
+copa américa,2021,Paraguay,F
+copa américa,2021,Bolivia,G
+copa américa,2021,Peru,H
+gold cup,2021,El Salvador,A
+gold cup,2021,Guatemala,A
+gold cup,2021,Mexico,A
+gold cup,2021,Trinidad and Tobago,A
+gold cup,2021,Canada,B
+gold cup,2021,Haiti,B
+gold cup,2021,Martinique,B
+gold cup,2021,United States,B
+gold cup,2021,Costa Rica,C
+gold cup,2021,Guadeloupe,C
+gold cup,2021,Jamaica,C
+gold cup,2021,Suriname,C
+gold cup,2021,Grenada,D
+gold cup,2021,Honduras,D
+gold cup,2021,Panama,D
+gold cup,2021,Qatar,D
+uefa euro,2021,Italy,A
+uefa euro,2021,Switzerland,A
+uefa euro,2021,Turkey,A
+uefa euro,2021,Wales,A
+uefa euro,2021,Belgium,B
+uefa euro,2021,Denmark,B
+uefa euro,2021,Finland,B
+uefa euro,2021,Russia,B
+uefa euro,2021,Austria,C
+uefa euro,2021,Netherlands,C
+uefa euro,2021,North Macedonia,C
+uefa euro,2021,Ukraine,C
+uefa euro,2021,Croatia,D
+uefa euro,2021,Czech Republic,D
+uefa euro,2021,England,D
+uefa euro,2021,Scotland,D
+uefa euro,2021,Poland,E
+uefa euro,2021,Slovakia,E
+uefa euro,2021,Spain,E
+uefa euro,2021,Sweden,E
+uefa euro,2021,France,F
+uefa euro,2021,Germany,F
+uefa euro,2021,Hungary,F
+uefa euro,2021,Portugal,F
+african cup of nations,2022,Burkina Faso,A
+african cup of nations,2022,Cameroon,A
+african cup of nations,2022,Cape Verde,A
+african cup of nations,2022,Ethiopia,A
+african cup of nations,2022,Guinea,B
+african cup of nations,2022,Malawi,B
+african cup of nations,2022,Senegal,B
+african cup of nations,2022,Zimbabwe,B
+african cup of nations,2022,Comoros,C
+african cup of nations,2022,Gabon,C
+african cup of nations,2022,Ghana,C
+african cup of nations,2022,Morocco,C
+african cup of nations,2022,Egypt,D
+african cup of nations,2022,Guinea-Bissau,D
+african cup of nations,2022,Nigeria,D
+african cup of nations,2022,Sudan,D
+african cup of nations,2022,Algeria,E
+african cup of nations,2022,Equatorial Guinea,E
+african cup of nations,2022,Ivory Coast,E
+african cup of nations,2022,Sierra Leone,E
+african cup of nations,2022,Gambia,F
+african cup of nations,2022,Mali,F
+african cup of nations,2022,Mauritania,F
+african cup of nations,2022,Tunisia,F
+fifa world cup,2022,Ecuador,A
+fifa world cup,2022,Netherlands,A
+fifa world cup,2022,Qatar,A
+fifa world cup,2022,Senegal,A
+fifa world cup,2022,England,B
+fifa world cup,2022,Iran,B
+fifa world cup,2022,United States,B
+fifa world cup,2022,Wales,B
+fifa world cup,2022,Argentina,C
+fifa world cup,2022,Mexico,C
+fifa world cup,2022,Poland,C
+fifa world cup,2022,Saudi Arabia,C
+fifa world cup,2022,Australia,D
+fifa world cup,2022,Denmark,D
+fifa world cup,2022,France,D
+fifa world cup,2022,Tunisia,D
+fifa world cup,2022,Costa Rica,E
+fifa world cup,2022,Germany,E
+fifa world cup,2022,Japan,E
+fifa world cup,2022,Spain,E
+fifa world cup,2022,Belgium,F
+fifa world cup,2022,Canada,F
+fifa world cup,2022,Croatia,F
+fifa world cup,2022,Morocco,F
+fifa world cup,2022,Ghana,G
+fifa world cup,2022,Portugal,G
+fifa world cup,2022,South Korea,G
+fifa world cup,2022,Uruguay,G
+fifa world cup,2022,Brazil,H
+fifa world cup,2022,Cameroon,H
+fifa world cup,2022,Serbia,H
+fifa world cup,2022,Switzerland,H
+gold cup,2023,Jamaica,A
+gold cup,2023,Saint Kitts and Nevis,A
+gold cup,2023,Trinidad and Tobago,A
+gold cup,2023,United States,A
+gold cup,2023,Haiti,B
+gold cup,2023,Honduras,B
+gold cup,2023,Mexico,B
+gold cup,2023,Qatar,B
+gold cup,2023,Costa Rica,C
+gold cup,2023,El Salvador,C
+gold cup,2023,Martinique,C
+gold cup,2023,Panama,C
+gold cup,2023,Canada,D
+gold cup,2023,Cuba,D
+gold cup,2023,Guadeloupe,D
+gold cup,2023,Guatemala,D
+afc asian cup,2024,China PR,A
+afc asian cup,2024,Lebanon,A
+afc asian cup,2024,Qatar,A
+afc asian cup,2024,Tajikistan,A
+afc asian cup,2024,Australia,B
+afc asian cup,2024,India,B
+afc asian cup,2024,Syria,B
+afc asian cup,2024,Uzbekistan,B
+afc asian cup,2024,Hong Kong,C
+afc asian cup,2024,Iran,C
+afc asian cup,2024,Palestine,C
+afc asian cup,2024,United Arab Emirates,C
+afc asian cup,2024,Indonesia,D
+afc asian cup,2024,Iraq,D
+afc asian cup,2024,Japan,D
+afc asian cup,2024,Vietnam,D
+afc asian cup,2024,Bahrain,E
+afc asian cup,2024,Jordan,E
+afc asian cup,2024,Malaysia,E
+afc asian cup,2024,South Korea,E
+afc asian cup,2024,Kyrgyzstan,F
+afc asian cup,2024,Oman,F
+afc asian cup,2024,Saudi Arabia,F
+afc asian cup,2024,Thailand,F
+african cup of nations,2024,Equatorial Guinea,A
+african cup of nations,2024,Guinea-Bissau,A
+african cup of nations,2024,Ivory Coast,A
+african cup of nations,2024,Nigeria,A
+african cup of nations,2024,Cape Verde,B
+african cup of nations,2024,Egypt,B
+african cup of nations,2024,Ghana,B
+african cup of nations,2024,Mozambique,B
+african cup of nations,2024,Cameroon,C
+african cup of nations,2024,Gambia,C
+african cup of nations,2024,Guinea,C
+african cup of nations,2024,Senegal,C
+african cup of nations,2024,Algeria,D
+african cup of nations,2024,Angola,D
+african cup of nations,2024,Burkina Faso,D
+african cup of nations,2024,Mauritania,D
+african cup of nations,2024,Mali,E
+african cup of nations,2024,Namibia,E
+african cup of nations,2024,South Africa,E
+african cup of nations,2024,Tunisia,E
+african cup of nations,2024,DR Congo,F
+african cup of nations,2024,Morocco,F
+african cup of nations,2024,Tanzania,F
+african cup of nations,2024,Zambia,F
+copa américa,2024,Argentina,A
+copa américa,2024,Canada,A
+copa américa,2024,Chile,A
+copa américa,2024,Peru,A
+copa américa,2024,Ecuador,B
+copa américa,2024,Jamaica,B
+copa américa,2024,Mexico,B
+copa américa,2024,Venezuela,B
+copa américa,2024,Bolivia,C
+copa américa,2024,Panama,C
+copa américa,2024,United States,C
+copa américa,2024,Uruguay,C
+copa américa,2024,Brazil,D
+copa américa,2024,Colombia,D
+copa américa,2024,Costa Rica,D
+copa américa,2024,Paraguay,D
+uefa euro,2024,Germany,A
+uefa euro,2024,Hungary,A
+uefa euro,2024,Scotland,A
+uefa euro,2024,Switzerland,A
+uefa euro,2024,Albania,B
+uefa euro,2024,Croatia,B
+uefa euro,2024,Italy,B
+uefa euro,2024,Spain,B
+uefa euro,2024,Denmark,C
+uefa euro,2024,England,C
+uefa euro,2024,Serbia,C
+uefa euro,2024,Slovenia,C
+uefa euro,2024,Austria,D
+uefa euro,2024,France,D
+uefa euro,2024,Netherlands,D
+uefa euro,2024,Poland,D
+uefa euro,2024,Belgium,E
+uefa euro,2024,Romania,E
+uefa euro,2024,Slovakia,E
+uefa euro,2024,Ukraine,E
+uefa euro,2024,Czech Republic,F
+uefa euro,2024,Georgia,F
+uefa euro,2024,Portugal,F
+uefa euro,2024,Turkey,F
+gold cup,2025,Costa Rica,A
+gold cup,2025,Dominican Republic,A
+gold cup,2025,Mexico,A
+gold cup,2025,Suriname,A
+gold cup,2025,Haiti,B
+gold cup,2025,Saudi Arabia,B
+gold cup,2025,Trinidad and Tobago,B
+gold cup,2025,United States,B
+gold cup,2025,Guadeloupe,C
+gold cup,2025,Guatemala,C
+gold cup,2025,Jamaica,C
+gold cup,2025,Panama,C
+gold cup,2025,Canada,D
+gold cup,2025,Curaçao,D
+gold cup,2025,El Salvador,D
+gold cup,2025,Honduras,D

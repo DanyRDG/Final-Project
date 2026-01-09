@@ -1,0 +1,7 @@
+tournament,mean_accuracy_stage,mean_accuracy_macro3,mean_mae_stage,avg_teams
+gold cup,0.50972,0.775,0.71944,15.2
+afc asian cup,0.45139,0.59722,0.86111,24.0
+fifa world cup,0.42188,0.50521,0.92708,32.0
+copa américa,0.40347,0.67917,0.98403,13.5
+uefa euro,0.39352,0.625,0.83333,24.0
+african cup of nations,0.36979,0.56944,1.01042,22.0

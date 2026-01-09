@@ -1,0 +1,931 @@
+tournament,year,team,matches_played,wins,goals_for,goals_conceded,stage
+afc asian cup,2000,Japan,6,5,21,6,Champion
+afc asian cup,2000,Saudi Arabia,6,3,11,8,Runner-up
+afc asian cup,2000,China PR,6,2,11,7,Semi-Finalist
+afc asian cup,2000,South Korea,6,3,9,6,Semi-Finalist
+afc asian cup,2000,Iran,4,2,7,3,Quarter-Finalist
+afc asian cup,2000,Iraq,4,1,5,7,Quarter-Finalist
+afc asian cup,2000,Kuwait,4,1,3,3,Quarter-Finalist
+afc asian cup,2000,Qatar,4,0,3,5,Quarter-Finalist
+afc asian cup,2000,Indonesia,3,0,0,7,Round of 16
+afc asian cup,2000,Lebanon,3,0,3,7,Round of 16
+afc asian cup,2000,Thailand,3,0,2,4,Round of 16
+afc asian cup,2000,Uzbekistan,3,0,2,14,Round of 16
+african cup of nations,2000,Cameroon,6,3,11,5,Champion
+african cup of nations,2000,Nigeria,6,4,12,5,Runner-up
+african cup of nations,2000,South Africa,6,3,8,6,Semi-Finalist
+african cup of nations,2000,Tunisia,6,2,6,9,Semi-Finalist
+african cup of nations,2000,Algeria,4,1,5,4,Quarter-Finalist
+african cup of nations,2000,Egypt,4,3,7,3,Quarter-Finalist
+african cup of nations,2000,Ghana,4,1,3,4,Quarter-Finalist
+african cup of nations,2000,Senegal,4,1,6,6,Quarter-Finalist
+african cup of nations,2000,Burkina Faso,3,0,4,8,Round of 16
+african cup of nations,2000,Congo,3,0,0,2,Round of 16
+african cup of nations,2000,DR Congo,3,0,0,1,Round of 16
+african cup of nations,2000,Gabon,3,0,2,6,Round of 16
+african cup of nations,2000,Ivory Coast,3,1,3,4,Round of 16
+african cup of nations,2000,Morocco,3,1,1,2,Round of 16
+african cup of nations,2000,Togo,3,1,2,3,Round of 16
+african cup of nations,2000,Zambia,3,0,3,5,Round of 16
+uefa euro,2000,France,6,5,13,7,Champion
+uefa euro,2000,Italy,6,4,9,4,Runner-up
+uefa euro,2000,Netherlands,5,4,13,3,Semi-Finalist
+uefa euro,2000,Portugal,5,4,10,4,Semi-Finalist
+uefa euro,2000,Romania,4,1,4,6,Quarter-Finalist
+uefa euro,2000,Serbia,4,1,8,13,Quarter-Finalist
+uefa euro,2000,Spain,4,2,7,7,Quarter-Finalist
+uefa euro,2000,Turkey,4,1,3,4,Quarter-Finalist
+uefa euro,2000,Belgium,3,1,2,5,Round of 16
+uefa euro,2000,Czech Republic,3,1,3,3,Round of 16
+uefa euro,2000,Denmark,3,0,0,8,Round of 16
+uefa euro,2000,England,3,1,5,6,Round of 16
+uefa euro,2000,Germany,3,0,1,5,Round of 16
+uefa euro,2000,Norway,3,1,1,1,Round of 16
+uefa euro,2000,Slovenia,3,0,4,5,Round of 16
+uefa euro,2000,Sweden,3,0,2,4,Round of 16
+copa américa,2001,Colombia,6,6,11,0,Champion
+copa américa,2001,Mexico,6,3,5,3,Runner-up
+copa américa,2001,Honduras,6,3,7,5,Semi-Finalist
+copa américa,2001,Uruguay,6,2,7,7,Semi-Finalist
+copa américa,2001,Brazil,4,2,5,4,Quarter-Finalist
+copa américa,2001,Chile,4,2,5,5,Quarter-Finalist
+copa américa,2001,Costa Rica,4,2,7,3,Quarter-Finalist
+copa américa,2001,Peru,4,1,4,8,Quarter-Finalist
+copa américa,2001,Bolivia,3,0,0,7,Round of 16
+copa américa,2001,Ecuador,3,1,5,5,Round of 16
+copa américa,2001,Paraguay,3,0,4,6,Round of 16
+copa américa,2001,Venezuela,3,0,0,7,Round of 16
+african cup of nations,2002,Cameroon,6,5,9,0,Champion
+african cup of nations,2002,Senegal,6,4,6,1,Runner-up
+african cup of nations,2002,Mali,6,2,5,5,Semi-Finalist
+african cup of nations,2002,Nigeria,6,4,5,2,Semi-Finalist
+african cup of nations,2002,DR Congo,4,1,3,4,Quarter-Finalist
+african cup of nations,2002,Egypt,4,2,3,3,Quarter-Finalist
+african cup of nations,2002,Ghana,4,1,2,2,Quarter-Finalist
+african cup of nations,2002,South Africa,4,1,3,3,Quarter-Finalist
+african cup of nations,2002,Algeria,3,0,2,5,Round of 16
+african cup of nations,2002,Burkina Faso,3,0,2,4,Round of 16
+african cup of nations,2002,Ivory Coast,3,0,1,4,Round of 16
+african cup of nations,2002,Liberia,3,0,3,4,Round of 16
+african cup of nations,2002,Morocco,3,1,3,4,Round of 16
+african cup of nations,2002,Togo,3,0,0,3,Round of 16
+african cup of nations,2002,Tunisia,3,0,0,1,Round of 16
+african cup of nations,2002,Zambia,3,0,1,3,Round of 16
+fifa world cup,2002,Brazil,7,7,18,4,Champion
+fifa world cup,2002,Germany,7,5,14,3,Runner-up
+fifa world cup,2002,South Korea,7,3,8,6,Semi-Finalist
+fifa world cup,2002,Turkey,7,4,10,6,Semi-Finalist
+fifa world cup,2002,England,5,2,6,3,Quarter-Finalist
+fifa world cup,2002,Senegal,5,2,7,6,Quarter-Finalist
+fifa world cup,2002,Spain,5,3,10,5,Quarter-Finalist
+fifa world cup,2002,United States,5,2,7,7,Quarter-Finalist
+fifa world cup,2002,Belgium,4,1,6,7,Round of 16
+fifa world cup,2002,Denmark,4,2,5,5,Round of 16
+fifa world cup,2002,Italy,4,1,5,5,Round of 16
+fifa world cup,2002,Japan,4,2,5,3,Round of 16
+fifa world cup,2002,Mexico,4,2,4,4,Round of 16
+fifa world cup,2002,Paraguay,4,1,6,7,Round of 16
+fifa world cup,2002,Republic of Ireland,4,1,6,3,Round of 16
+fifa world cup,2002,Sweden,4,1,5,5,Round of 16
+fifa world cup,2002,Argentina,3,1,2,2,Group Stage
+fifa world cup,2002,Cameroon,3,1,2,3,Group Stage
+fifa world cup,2002,China PR,3,0,0,9,Group Stage
+fifa world cup,2002,Costa Rica,3,1,5,6,Group Stage
+fifa world cup,2002,Croatia,3,1,2,3,Group Stage
+fifa world cup,2002,Ecuador,3,1,2,4,Group Stage
+fifa world cup,2002,France,3,0,0,3,Group Stage
+fifa world cup,2002,Nigeria,3,0,1,3,Group Stage
+fifa world cup,2002,Poland,3,1,3,7,Group Stage
+fifa world cup,2002,Portugal,3,1,6,4,Group Stage
+fifa world cup,2002,Russia,3,1,4,4,Group Stage
+fifa world cup,2002,Saudi Arabia,3,0,0,12,Group Stage
+fifa world cup,2002,Slovenia,3,0,2,7,Group Stage
+fifa world cup,2002,South Africa,3,1,5,5,Group Stage
+fifa world cup,2002,Tunisia,3,0,1,5,Group Stage
+fifa world cup,2002,Uruguay,3,0,4,5,Group Stage
+afc asian cup,2004,Japan,6,4,13,6,Champion
+afc asian cup,2004,China PR,6,3,13,6,Runner-up
+afc asian cup,2004,Bahrain,6,1,13,14,Semi-Finalist
+afc asian cup,2004,Iran,6,3,14,8,Semi-Finalist
+afc asian cup,2004,Iraq,4,2,5,7,Quarter-Finalist
+afc asian cup,2004,Jordan,4,1,3,1,Quarter-Finalist
+afc asian cup,2004,South Korea,4,2,9,4,Quarter-Finalist
+afc asian cup,2004,Uzbekistan,4,3,5,2,Quarter-Finalist
+afc asian cup,2004,Indonesia,3,1,3,9,Round of 16
+afc asian cup,2004,Kuwait,3,1,3,7,Round of 16
+afc asian cup,2004,Oman,3,1,4,3,Round of 16
+afc asian cup,2004,Qatar,3,0,2,4,Round of 16
+afc asian cup,2004,Saudi Arabia,3,0,3,5,Round of 16
+afc asian cup,2004,Thailand,3,0,1,9,Round of 16
+afc asian cup,2004,Turkmenistan,3,0,4,6,Round of 16
+afc asian cup,2004,United Arab Emirates,3,0,1,5,Round of 16
+african cup of nations,2004,Tunisia,6,4,10,4,Champion
+african cup of nations,2004,Morocco,6,4,14,4,Runner-up
+african cup of nations,2004,Mali,6,3,10,10,Semi-Finalist
+african cup of nations,2004,Nigeria,6,4,11,5,Semi-Finalist
+african cup of nations,2004,Algeria,4,1,5,7,Quarter-Finalist
+african cup of nations,2004,Cameroon,4,1,7,6,Quarter-Finalist
+african cup of nations,2004,Guinea,4,1,5,5,Quarter-Finalist
+african cup of nations,2004,Senegal,4,1,4,2,Quarter-Finalist
+african cup of nations,2004,Benin,3,0,1,8,Round of 16
+african cup of nations,2004,Burkina Faso,3,0,1,6,Round of 16
+african cup of nations,2004,DR Congo,3,0,1,6,Round of 16
+african cup of nations,2004,Egypt,3,1,3,3,Round of 16
+african cup of nations,2004,Kenya,3,1,4,6,Round of 16
+african cup of nations,2004,Rwanda,3,1,3,3,Round of 16
+african cup of nations,2004,South Africa,3,1,3,5,Round of 16
+african cup of nations,2004,Zimbabwe,3,1,6,8,Round of 16
+copa américa,2004,Brazil,6,3,13,6,Champion
+copa américa,2004,Argentina,6,4,16,6,Runner-up
+copa américa,2004,Colombia,6,3,7,7,Semi-Finalist
+copa américa,2004,Uruguay,6,3,12,10,Semi-Finalist
+copa américa,2004,Costa Rica,4,1,3,8,Quarter-Finalist
+copa américa,2004,Mexico,4,2,5,7,Quarter-Finalist
+copa américa,2004,Paraguay,4,2,5,5,Quarter-Finalist
+copa américa,2004,Peru,4,1,7,6,Quarter-Finalist
+copa américa,2004,Bolivia,3,0,3,4,Round of 16
+copa américa,2004,Chile,3,0,2,4,Round of 16
+copa américa,2004,Ecuador,3,0,3,10,Round of 16
+copa américa,2004,Venezuela,3,0,2,5,Round of 16
+uefa euro,2004,Greece,6,4,7,4,Champion
+uefa euro,2004,Portugal,6,3,8,6,Runner-up
+uefa euro,2004,Czech Republic,5,4,10,5,Semi-Finalist
+uefa euro,2004,Netherlands,5,1,7,6,Semi-Finalist
+uefa euro,2004,Denmark,4,1,4,5,Quarter-Finalist
+uefa euro,2004,England,4,2,10,6,Quarter-Finalist
+uefa euro,2004,France,4,2,7,5,Quarter-Finalist
+uefa euro,2004,Sweden,4,1,8,3,Quarter-Finalist
+uefa euro,2004,Bulgaria,3,0,1,9,Round of 16
+uefa euro,2004,Croatia,3,0,4,6,Round of 16
+uefa euro,2004,Germany,3,0,2,3,Round of 16
+uefa euro,2004,Italy,3,1,3,2,Round of 16
+uefa euro,2004,Latvia,3,0,1,5,Round of 16
+uefa euro,2004,Russia,3,1,2,4,Round of 16
+uefa euro,2004,Spain,3,1,2,2,Round of 16
+uefa euro,2004,Switzerland,3,0,1,6,Round of 16
+gold cup,2005,United States,6,4,11,3,Champion
+gold cup,2005,Panama,6,2,7,6,Runner-up
+gold cup,2005,Colombia,5,2,7,7,Semi-Finalist
+gold cup,2005,Honduras,5,3,8,6,Semi-Finalist
+gold cup,2005,Costa Rica,4,2,6,4,Quarter-Finalist
+gold cup,2005,Jamaica,4,1,8,10,Quarter-Finalist
+gold cup,2005,Mexico,4,2,7,4,Quarter-Finalist
+gold cup,2005,South Africa,4,1,7,6,Quarter-Finalist
+gold cup,2005,Canada,3,1,2,4,Round of 16
+gold cup,2005,Cuba,3,0,3,9,Round of 16
+gold cup,2005,Guatemala,3,0,4,9,Round of 16
+gold cup,2005,Trinidad and Tobago,3,0,3,5,Round of 16
+african cup of nations,2006,Egypt,6,4,12,3,Champion
+african cup of nations,2006,Ivory Coast,6,3,6,5,Runner-up
+african cup of nations,2006,Nigeria,6,4,7,3,Semi-Finalist
+african cup of nations,2006,Senegal,6,2,7,8,Semi-Finalist
+african cup of nations,2006,Cameroon,4,3,8,2,Quarter-Finalist
+african cup of nations,2006,DR Congo,4,1,3,6,Quarter-Finalist
+african cup of nations,2006,Guinea,4,3,9,4,Quarter-Finalist
+african cup of nations,2006,Tunisia,4,2,7,5,Quarter-Finalist
+african cup of nations,2006,Angola,3,1,4,5,Round of 16
+african cup of nations,2006,Ghana,3,1,2,3,Round of 16
+african cup of nations,2006,Libya,3,0,1,5,Round of 16
+african cup of nations,2006,Morocco,3,0,0,1,Round of 16
+african cup of nations,2006,South Africa,3,0,0,5,Round of 16
+african cup of nations,2006,Togo,3,0,2,7,Round of 16
+african cup of nations,2006,Zambia,3,1,3,6,Round of 16
+african cup of nations,2006,Zimbabwe,3,1,2,5,Round of 16
+fifa world cup,2006,Italy,7,5,12,2,Champion
+fifa world cup,2006,France,7,4,9,3,Runner-up
+fifa world cup,2006,Germany,7,5,14,6,Semi-Finalist
+fifa world cup,2006,Portugal,7,4,7,5,Semi-Finalist
+fifa world cup,2006,Argentina,5,3,11,3,Quarter-Finalist
+fifa world cup,2006,Brazil,5,4,10,2,Quarter-Finalist
+fifa world cup,2006,England,5,3,6,2,Quarter-Finalist
+fifa world cup,2006,Ukraine,5,2,5,7,Quarter-Finalist
+fifa world cup,2006,Australia,4,1,5,6,Round of 16
+fifa world cup,2006,Ecuador,4,2,5,4,Round of 16
+fifa world cup,2006,Ghana,4,2,4,6,Round of 16
+fifa world cup,2006,Mexico,4,1,5,5,Round of 16
+fifa world cup,2006,Netherlands,4,2,3,2,Round of 16
+fifa world cup,2006,Spain,4,3,9,4,Round of 16
+fifa world cup,2006,Sweden,4,1,3,4,Round of 16
+fifa world cup,2006,Switzerland,4,2,4,0,Round of 16
+fifa world cup,2006,Angola,3,0,1,2,Group Stage
+fifa world cup,2006,Costa Rica,3,0,3,9,Group Stage
+fifa world cup,2006,Croatia,3,0,2,3,Group Stage
+fifa world cup,2006,Czech Republic,3,1,3,4,Group Stage
+fifa world cup,2006,Iran,3,0,2,6,Group Stage
+fifa world cup,2006,Ivory Coast,3,1,5,6,Group Stage
+fifa world cup,2006,Japan,3,0,2,7,Group Stage
+fifa world cup,2006,Paraguay,3,1,2,2,Group Stage
+fifa world cup,2006,Poland,3,1,2,4,Group Stage
+fifa world cup,2006,Saudi Arabia,3,0,2,7,Group Stage
+fifa world cup,2006,Serbia,3,0,2,10,Group Stage
+fifa world cup,2006,South Korea,3,1,3,4,Group Stage
+fifa world cup,2006,Togo,3,0,1,6,Group Stage
+fifa world cup,2006,Trinidad and Tobago,3,0,0,4,Group Stage
+fifa world cup,2006,Tunisia,3,0,3,6,Group Stage
+fifa world cup,2006,United States,3,0,2,6,Group Stage
+afc asian cup,2007,Iraq,6,3,7,2,Champion
+afc asian cup,2007,Saudi Arabia,6,4,12,6,Runner-up
+afc asian cup,2007,Japan,6,2,11,7,Semi-Finalist
+afc asian cup,2007,South Korea,6,1,3,3,Semi-Finalist
+afc asian cup,2007,Australia,4,1,7,5,Quarter-Finalist
+afc asian cup,2007,Iran,4,2,6,3,Quarter-Finalist
+afc asian cup,2007,Uzbekistan,4,2,10,4,Quarter-Finalist
+afc asian cup,2007,Vietnam,4,1,4,7,Quarter-Finalist
+afc asian cup,2007,Bahrain,3,1,3,7,Round of 16
+afc asian cup,2007,China PR,3,1,7,6,Round of 16
+afc asian cup,2007,Indonesia,3,1,3,4,Round of 16
+afc asian cup,2007,Malaysia,3,0,1,12,Round of 16
+afc asian cup,2007,Oman,3,0,1,3,Round of 16
+afc asian cup,2007,Qatar,3,0,3,4,Round of 16
+afc asian cup,2007,Thailand,3,1,3,5,Round of 16
+afc asian cup,2007,United Arab Emirates,3,1,3,6,Round of 16
+copa américa,2007,Brazil,6,4,15,5,Champion
+copa américa,2007,Argentina,6,5,16,6,Runner-up
+copa américa,2007,Mexico,6,4,13,5,Semi-Finalist
+copa américa,2007,Uruguay,6,2,8,9,Semi-Finalist
+copa américa,2007,Chile,4,1,4,11,Quarter-Finalist
+copa américa,2007,Paraguay,4,2,8,8,Quarter-Finalist
+copa américa,2007,Peru,4,1,5,8,Quarter-Finalist
+copa américa,2007,Venezuela,4,1,5,6,Quarter-Finalist
+copa américa,2007,Bolivia,3,0,4,5,Round of 16
+copa américa,2007,Colombia,3,1,3,9,Round of 16
+copa américa,2007,Ecuador,3,0,3,6,Round of 16
+copa américa,2007,United States,3,0,2,8,Round of 16
+gold cup,2007,United States,6,6,13,3,Champion
+gold cup,2007,Mexico,6,4,7,5,Runner-up
+gold cup,2007,Canada,5,3,9,5,Semi-Finalist
+gold cup,2007,Guadeloupe,5,2,5,5,Semi-Finalist
+gold cup,2007,Costa Rica,4,1,3,4,Quarter-Finalist
+gold cup,2007,Guatemala,4,1,2,5,Quarter-Finalist
+gold cup,2007,Honduras,4,2,10,6,Quarter-Finalist
+gold cup,2007,Panama,4,1,6,7,Quarter-Finalist
+gold cup,2007,Cuba,3,0,3,9,Round of 16
+gold cup,2007,El Salvador,3,1,2,6,Round of 16
+gold cup,2007,Haiti,3,0,2,4,Round of 16
+gold cup,2007,Trinidad and Tobago,3,0,2,5,Round of 16
+african cup of nations,2008,Egypt,6,5,15,5,Champion
+african cup of nations,2008,Cameroon,6,4,14,8,Runner-up
+african cup of nations,2008,Ghana,6,5,11,5,Semi-Finalist
+african cup of nations,2008,Ivory Coast,6,4,16,9,Semi-Finalist
+african cup of nations,2008,Angola,4,1,5,4,Quarter-Finalist
+african cup of nations,2008,Guinea,4,1,5,10,Quarter-Finalist
+african cup of nations,2008,Nigeria,4,1,3,3,Quarter-Finalist
+african cup of nations,2008,Tunisia,4,1,7,6,Quarter-Finalist
+african cup of nations,2008,Benin,3,0,1,7,Round of 16
+african cup of nations,2008,Mali,3,1,1,3,Round of 16
+african cup of nations,2008,Morocco,3,1,7,6,Round of 16
+african cup of nations,2008,Namibia,3,0,2,7,Round of 16
+african cup of nations,2008,Senegal,3,0,4,6,Round of 16
+african cup of nations,2008,South Africa,3,0,3,5,Round of 16
+african cup of nations,2008,Sudan,3,0,0,9,Round of 16
+african cup of nations,2008,Zambia,3,1,5,6,Round of 16
+uefa euro,2008,Spain,6,5,12,3,Champion
+uefa euro,2008,Germany,6,4,10,7,Runner-up
+uefa euro,2008,Russia,5,3,7,8,Semi-Finalist
+uefa euro,2008,Turkey,5,2,8,9,Semi-Finalist
+uefa euro,2008,Croatia,4,3,5,2,Quarter-Finalist
+uefa euro,2008,Italy,4,1,3,4,Quarter-Finalist
+uefa euro,2008,Netherlands,4,3,10,4,Quarter-Finalist
+uefa euro,2008,Portugal,4,2,7,6,Quarter-Finalist
+uefa euro,2008,Austria,3,0,1,3,Round of 16
+uefa euro,2008,Czech Republic,3,1,4,6,Round of 16
+uefa euro,2008,France,3,0,1,6,Round of 16
+uefa euro,2008,Greece,3,0,1,5,Round of 16
+uefa euro,2008,Poland,3,0,1,4,Round of 16
+uefa euro,2008,Romania,3,0,1,3,Round of 16
+uefa euro,2008,Sweden,3,1,3,4,Round of 16
+uefa euro,2008,Switzerland,3,1,3,3,Round of 16
+gold cup,2009,Mexico,6,4,15,2,Champion
+gold cup,2009,United States,6,4,12,8,Runner-up
+gold cup,2009,Costa Rica,5,2,10,6,Semi-Finalist
+gold cup,2009,Honduras,5,3,6,4,Semi-Finalist
+gold cup,2009,Canada,4,2,4,3,Quarter-Finalist
+gold cup,2009,Guadeloupe,4,2,5,8,Quarter-Finalist
+gold cup,2009,Haiti,4,1,4,7,Quarter-Finalist
+gold cup,2009,Panama,4,1,7,5,Quarter-Finalist
+gold cup,2009,El Salvador,3,1,2,3,Round of 16
+gold cup,2009,Grenada,3,0,0,10,Round of 16
+gold cup,2009,Jamaica,3,1,1,2,Round of 16
+gold cup,2009,Nicaragua,3,0,0,8,Round of 16
+fifa world cup,2010,Spain,7,6,8,2,Champion
+fifa world cup,2010,Netherlands,7,6,12,6,Runner-up
+fifa world cup,2010,Germany,7,5,16,5,Semi-Finalist
+fifa world cup,2010,Uruguay,7,3,11,8,Semi-Finalist
+fifa world cup,2010,Argentina,5,4,10,6,Quarter-Finalist
+fifa world cup,2010,Brazil,5,3,9,4,Quarter-Finalist
+fifa world cup,2010,Ghana,5,2,5,4,Quarter-Finalist
+fifa world cup,2010,Paraguay,5,1,3,2,Quarter-Finalist
+fifa world cup,2010,Chile,4,2,3,5,Round of 16
+fifa world cup,2010,England,4,1,3,5,Round of 16
+fifa world cup,2010,Japan,4,2,4,2,Round of 16
+fifa world cup,2010,Mexico,4,1,4,5,Round of 16
+fifa world cup,2010,Portugal,4,1,7,1,Round of 16
+fifa world cup,2010,Slovakia,4,1,5,7,Round of 16
+fifa world cup,2010,South Korea,4,1,6,8,Round of 16
+fifa world cup,2010,United States,4,1,5,5,Round of 16
+fifa world cup,2010,Algeria,3,0,0,2,Group Stage
+fifa world cup,2010,Australia,3,1,3,6,Group Stage
+fifa world cup,2010,Cameroon,3,0,2,5,Group Stage
+fifa world cup,2010,Denmark,3,1,3,6,Group Stage
+fifa world cup,2010,France,3,0,1,4,Group Stage
+fifa world cup,2010,Greece,3,1,2,5,Group Stage
+fifa world cup,2010,Honduras,3,0,0,3,Group Stage
+fifa world cup,2010,Italy,3,0,4,5,Group Stage
+fifa world cup,2010,Ivory Coast,3,1,4,3,Group Stage
+fifa world cup,2010,New Zealand,3,0,2,2,Group Stage
+fifa world cup,2010,Nigeria,3,0,3,5,Group Stage
+fifa world cup,2010,North Korea,3,0,1,12,Group Stage
+fifa world cup,2010,Serbia,3,1,2,3,Group Stage
+fifa world cup,2010,Slovenia,3,1,3,3,Group Stage
+fifa world cup,2010,South Africa,3,1,3,5,Group Stage
+fifa world cup,2010,Switzerland,3,1,1,1,Group Stage
+afc asian cup,2011,Japan,6,4,14,6,Champion
+afc asian cup,2011,Australia,6,4,13,2,Runner-up
+afc asian cup,2011,South Korea,6,4,13,7,Semi-Finalist
+afc asian cup,2011,Uzbekistan,6,3,10,13,Semi-Finalist
+afc asian cup,2011,Iran,4,3,6,2,Quarter-Finalist
+afc asian cup,2011,Iraq,4,2,3,3,Quarter-Finalist
+afc asian cup,2011,Jordan,4,2,5,4,Quarter-Finalist
+afc asian cup,2011,Qatar,4,2,7,5,Quarter-Finalist
+afc asian cup,2011,Bahrain,3,1,6,5,Round of 16
+afc asian cup,2011,China PR,3,1,4,4,Round of 16
+afc asian cup,2011,India,3,0,3,13,Round of 16
+afc asian cup,2011,Kuwait,3,0,1,7,Round of 16
+afc asian cup,2011,North Korea,3,0,0,2,Round of 16
+afc asian cup,2011,Saudi Arabia,3,0,1,8,Round of 16
+afc asian cup,2011,Syria,3,1,4,5,Round of 16
+afc asian cup,2011,United Arab Emirates,3,0,0,4,Round of 16
+copa américa,2011,Uruguay,6,3,9,3,Champion
+copa américa,2011,Paraguay,6,0,5,8,Runner-up
+copa américa,2011,Peru,6,3,8,5,Semi-Finalist
+copa américa,2011,Venezuela,6,2,7,8,Semi-Finalist
+copa américa,2011,Argentina,4,1,5,2,Quarter-Finalist
+copa américa,2011,Brazil,4,1,6,4,Quarter-Finalist
+copa américa,2011,Chile,4,2,5,4,Quarter-Finalist
+copa américa,2011,Colombia,4,2,3,2,Quarter-Finalist
+copa américa,2011,Bolivia,3,0,1,5,Round of 16
+copa américa,2011,Costa Rica,3,1,2,4,Round of 16
+copa américa,2011,Ecuador,3,0,2,5,Round of 16
+copa américa,2011,Mexico,3,0,1,4,Round of 16
+gold cup,2011,Mexico,6,6,22,4,Champion
+gold cup,2011,United States,6,4,9,6,Runner-up
+gold cup,2011,Honduras,5,1,8,5,Semi-Finalist
+gold cup,2011,Panama,5,2,7,6,Semi-Finalist
+gold cup,2011,Costa Rica,4,1,8,6,Quarter-Finalist
+gold cup,2011,El Salvador,4,1,8,8,Quarter-Finalist
+gold cup,2011,Guatemala,4,1,5,4,Quarter-Finalist
+gold cup,2011,Jamaica,4,3,7,2,Quarter-Finalist
+gold cup,2011,Canada,3,1,2,3,Round of 16
+gold cup,2011,Cuba,3,0,1,16,Round of 16
+gold cup,2011,Grenada,3,0,1,15,Round of 16
+gold cup,2011,Guadeloupe,3,0,2,5,Round of 16
+african cup of nations,2012,Zambia,6,4,9,3,Champion
+african cup of nations,2012,Ivory Coast,6,5,9,0,Runner-up
+african cup of nations,2012,Ghana,6,3,6,5,Semi-Finalist
+african cup of nations,2012,Mali,6,3,6,5,Semi-Finalist
+african cup of nations,2012,Equatorial Guinea,4,2,3,5,Quarter-Finalist
+african cup of nations,2012,Gabon,4,3,7,3,Quarter-Finalist
+african cup of nations,2012,Sudan,4,1,4,7,Quarter-Finalist
+african cup of nations,2012,Tunisia,4,2,5,5,Quarter-Finalist
+african cup of nations,2012,Angola,3,1,4,5,Round of 16
+african cup of nations,2012,Botswana,3,0,2,9,Round of 16
+african cup of nations,2012,Burkina Faso,3,0,2,6,Round of 16
+african cup of nations,2012,Guinea,3,1,7,3,Round of 16
+african cup of nations,2012,Libya,3,1,4,4,Round of 16
+african cup of nations,2012,Morocco,3,1,4,5,Round of 16
+african cup of nations,2012,Niger,3,0,1,5,Round of 16
+african cup of nations,2012,Senegal,3,0,3,6,Round of 16
+uefa euro,2012,Spain,6,4,12,1,Champion
+uefa euro,2012,Italy,6,2,6,7,Runner-up
+uefa euro,2012,Germany,5,4,10,6,Semi-Finalist
+uefa euro,2012,Portugal,5,3,6,4,Semi-Finalist
+uefa euro,2012,Czech Republic,4,2,4,6,Quarter-Finalist
+uefa euro,2012,England,4,2,5,3,Quarter-Finalist
+uefa euro,2012,France,4,1,3,5,Quarter-Finalist
+uefa euro,2012,Greece,4,1,5,7,Quarter-Finalist
+uefa euro,2012,Croatia,3,1,4,3,Round of 16
+uefa euro,2012,Denmark,3,1,4,5,Round of 16
+uefa euro,2012,Netherlands,3,0,2,5,Round of 16
+uefa euro,2012,Poland,3,0,2,3,Round of 16
+uefa euro,2012,Republic of Ireland,3,0,1,9,Round of 16
+uefa euro,2012,Russia,3,1,5,3,Round of 16
+uefa euro,2012,Sweden,3,1,5,5,Round of 16
+uefa euro,2012,Ukraine,3,1,2,4,Round of 16
+african cup of nations,2013,Nigeria,6,4,11,4,Champion
+african cup of nations,2013,Burkina Faso,6,2,7,3,Runner-up
+african cup of nations,2013,Ghana,6,3,10,6,Semi-Finalist
+african cup of nations,2013,Mali,6,2,7,8,Semi-Finalist
+african cup of nations,2013,Cape Verde,4,1,3,4,Quarter-Finalist
+african cup of nations,2013,Ivory Coast,4,2,8,5,Quarter-Finalist
+african cup of nations,2013,South Africa,4,1,5,3,Quarter-Finalist
+african cup of nations,2013,Togo,4,1,4,4,Quarter-Finalist
+african cup of nations,2013,Algeria,3,0,2,5,Round of 16
+african cup of nations,2013,Angola,3,0,1,4,Round of 16
+african cup of nations,2013,DR Congo,3,0,3,3,Round of 16
+african cup of nations,2013,Ethiopia,3,0,1,7,Round of 16
+african cup of nations,2013,Morocco,3,0,3,3,Round of 16
+african cup of nations,2013,Niger,3,0,0,4,Round of 16
+african cup of nations,2013,Tunisia,3,1,2,4,Round of 16
+african cup of nations,2013,Zambia,3,0,2,2,Round of 16
+gold cup,2013,United States,6,6,20,4,Champion
+gold cup,2013,Panama,6,4,11,4,Runner-up
+gold cup,2013,Honduras,5,3,5,5,Semi-Finalist
+gold cup,2013,Mexico,5,3,8,5,Semi-Finalist
+gold cup,2013,Costa Rica,4,2,4,2,Quarter-Finalist
+gold cup,2013,Cuba,4,1,6,13,Quarter-Finalist
+gold cup,2013,El Salvador,4,1,4,8,Quarter-Finalist
+gold cup,2013,Trinidad and Tobago,4,1,4,5,Quarter-Finalist
+gold cup,2013,Belize,3,0,1,11,Round of 16
+gold cup,2013,Canada,3,0,0,3,Round of 16
+gold cup,2013,Haiti,3,1,2,3,Round of 16
+gold cup,2013,Martinique,3,1,2,4,Round of 16
+fifa world cup,2014,Germany,7,6,18,4,Champion
+fifa world cup,2014,Argentina,7,5,8,4,Runner-up
+fifa world cup,2014,Brazil,7,3,11,14,Semi-Finalist
+fifa world cup,2014,Netherlands,7,5,15,4,Semi-Finalist
+fifa world cup,2014,Belgium,5,4,6,3,Quarter-Finalist
+fifa world cup,2014,Colombia,5,4,12,4,Quarter-Finalist
+fifa world cup,2014,Costa Rica,5,2,5,2,Quarter-Finalist
+fifa world cup,2014,France,5,3,10,3,Quarter-Finalist
+fifa world cup,2014,Algeria,4,1,7,7,Round of 16
+fifa world cup,2014,Chile,4,2,6,4,Round of 16
+fifa world cup,2014,Greece,4,1,3,5,Round of 16
+fifa world cup,2014,Mexico,4,2,5,3,Round of 16
+fifa world cup,2014,Nigeria,4,1,3,5,Round of 16
+fifa world cup,2014,Switzerland,4,2,7,7,Round of 16
+fifa world cup,2014,United States,4,1,5,6,Round of 16
+fifa world cup,2014,Uruguay,4,2,4,6,Round of 16
+fifa world cup,2014,Australia,3,0,3,9,Group Stage
+fifa world cup,2014,Bosnia and Herzegovina,3,1,4,4,Group Stage
+fifa world cup,2014,Cameroon,3,0,1,9,Group Stage
+fifa world cup,2014,Croatia,3,1,6,6,Group Stage
+fifa world cup,2014,Ecuador,3,1,3,3,Group Stage
+fifa world cup,2014,England,3,0,2,4,Group Stage
+fifa world cup,2014,Ghana,3,0,4,6,Group Stage
+fifa world cup,2014,Honduras,3,0,1,8,Group Stage
+fifa world cup,2014,Iran,3,0,1,4,Group Stage
+fifa world cup,2014,Italy,3,1,2,3,Group Stage
+fifa world cup,2014,Ivory Coast,3,1,4,5,Group Stage
+fifa world cup,2014,Japan,3,0,2,6,Group Stage
+fifa world cup,2014,Portugal,3,1,4,7,Group Stage
+fifa world cup,2014,Russia,3,0,2,3,Group Stage
+fifa world cup,2014,South Korea,3,0,3,6,Group Stage
+fifa world cup,2014,Spain,3,1,4,7,Group Stage
+afc asian cup,2015,Australia,6,5,14,3,Champion
+afc asian cup,2015,South Korea,6,5,8,2,Runner-up
+afc asian cup,2015,Iraq,6,2,8,9,Semi-Finalist
+afc asian cup,2015,United Arab Emirates,6,3,10,8,Semi-Finalist
+afc asian cup,2015,China PR,4,3,5,4,Quarter-Finalist
+afc asian cup,2015,Iran,4,3,7,3,Quarter-Finalist
+afc asian cup,2015,Japan,4,3,8,1,Quarter-Finalist
+afc asian cup,2015,Uzbekistan,4,2,5,5,Quarter-Finalist
+afc asian cup,2015,Bahrain,3,1,3,5,Round of 16
+afc asian cup,2015,Jordan,3,1,5,4,Round of 16
+afc asian cup,2015,Kuwait,3,0,1,6,Round of 16
+afc asian cup,2015,North Korea,3,0,2,7,Round of 16
+afc asian cup,2015,Oman,3,1,1,5,Round of 16
+afc asian cup,2015,Palestine,3,0,1,11,Round of 16
+afc asian cup,2015,Qatar,3,0,2,7,Round of 16
+afc asian cup,2015,Saudi Arabia,3,1,5,5,Round of 16
+african cup of nations,2015,Ivory Coast,6,3,9,4,Champion
+african cup of nations,2015,Ghana,6,4,10,3,Runner-up
+african cup of nations,2015,DR Congo,6,1,7,7,Semi-Finalist
+african cup of nations,2015,Equatorial Guinea,6,2,5,5,Semi-Finalist
+african cup of nations,2015,Algeria,4,2,6,5,Quarter-Finalist
+african cup of nations,2015,Congo,4,2,6,6,Quarter-Finalist
+african cup of nations,2015,Guinea,4,0,3,6,Quarter-Finalist
+african cup of nations,2015,Tunisia,4,1,5,5,Quarter-Finalist
+african cup of nations,2015,Burkina Faso,3,0,1,4,Round of 16
+african cup of nations,2015,Cameroon,3,0,2,3,Round of 16
+african cup of nations,2015,Cape Verde,3,0,1,1,Round of 16
+african cup of nations,2015,Gabon,3,1,2,3,Round of 16
+african cup of nations,2015,Mali,3,0,3,3,Round of 16
+african cup of nations,2015,Senegal,3,1,3,4,Round of 16
+african cup of nations,2015,South Africa,3,0,3,6,Round of 16
+african cup of nations,2015,Zambia,3,0,2,3,Round of 16
+copa américa,2015,Chile,6,4,13,4,Champion
+copa américa,2015,Argentina,6,3,10,3,Runner-up
+copa américa,2015,Paraguay,6,1,6,12,Semi-Finalist
+copa américa,2015,Peru,6,3,8,5,Semi-Finalist
+copa américa,2015,Bolivia,4,1,4,10,Quarter-Finalist
+copa américa,2015,Brazil,4,2,5,4,Quarter-Finalist
+copa américa,2015,Colombia,4,1,1,1,Quarter-Finalist
+copa américa,2015,Uruguay,4,1,2,3,Quarter-Finalist
+copa américa,2015,Ecuador,3,1,4,6,Round of 16
+copa américa,2015,Jamaica,3,0,0,3,Round of 16
+copa américa,2015,Mexico,3,0,4,5,Round of 16
+copa américa,2015,Venezuela,3,1,2,3,Round of 16
+gold cup,2015,Mexico,6,4,16,6,Champion
+gold cup,2015,Jamaica,6,4,8,6,Runner-up
+gold cup,2015,Panama,6,0,6,7,Semi-Finalist
+gold cup,2015,United States,6,3,12,5,Semi-Finalist
+gold cup,2015,Costa Rica,4,0,3,4,Quarter-Finalist
+gold cup,2015,Cuba,4,1,1,14,Quarter-Finalist
+gold cup,2015,Haiti,4,1,2,3,Quarter-Finalist
+gold cup,2015,Trinidad and Tobago,4,2,10,6,Quarter-Finalist
+gold cup,2015,Canada,3,0,0,1,Round of 16
+gold cup,2015,El Salvador,3,0,1,2,Round of 16
+gold cup,2015,Guatemala,3,0,1,4,Round of 16
+gold cup,2015,Honduras,3,0,2,4,Round of 16
+copa américa,2016,Chile,6,4,16,5,Champion
+copa américa,2016,Argentina,6,5,18,2,Runner-up
+copa américa,2016,Colombia,6,3,7,6,Semi-Finalist
+copa américa,2016,United States,6,3,7,8,Semi-Finalist
+copa américa,2016,Ecuador,4,1,7,4,Quarter-Finalist
+copa américa,2016,Mexico,4,2,6,9,Quarter-Finalist
+copa américa,2016,Peru,4,2,4,2,Quarter-Finalist
+copa américa,2016,Venezuela,4,2,4,5,Quarter-Finalist
+copa américa,2016,Bolivia,3,0,2,7,Round of 16
+copa américa,2016,Brazil,3,1,7,2,Round of 16
+copa américa,2016,Costa Rica,3,1,3,6,Round of 16
+copa américa,2016,Haiti,3,0,1,12,Round of 16
+copa américa,2016,Jamaica,3,0,0,6,Round of 16
+copa américa,2016,Panama,3,1,4,10,Round of 16
+copa américa,2016,Paraguay,3,0,1,3,Round of 16
+copa américa,2016,Uruguay,3,1,4,4,Round of 16
+uefa euro,2016,Portugal,7,3,9,5,Champion
+uefa euro,2016,France,7,5,13,5,Runner-up
+uefa euro,2016,Germany,6,3,7,3,Semi-Finalist
+uefa euro,2016,Wales,6,4,10,6,Semi-Finalist
+uefa euro,2016,Belgium,5,3,9,5,Quarter-Finalist
+uefa euro,2016,Iceland,5,2,8,9,Quarter-Finalist
+uefa euro,2016,Italy,5,3,6,2,Quarter-Finalist
+uefa euro,2016,Poland,5,2,4,2,Quarter-Finalist
+uefa euro,2016,Croatia,4,2,5,4,Round of 16
+uefa euro,2016,England,4,1,4,4,Round of 16
+uefa euro,2016,Hungary,4,1,6,8,Round of 16
+uefa euro,2016,Northern Ireland,4,1,2,3,Round of 16
+uefa euro,2016,Republic of Ireland,4,1,3,6,Round of 16
+uefa euro,2016,Slovakia,4,1,3,6,Round of 16
+uefa euro,2016,Spain,4,2,5,4,Round of 16
+uefa euro,2016,Switzerland,4,1,3,2,Round of 16
+uefa euro,2016,Albania,3,1,1,3,Group Stage
+uefa euro,2016,Austria,3,0,1,4,Group Stage
+uefa euro,2016,Czech Republic,3,0,2,5,Group Stage
+uefa euro,2016,Romania,3,0,2,4,Group Stage
+uefa euro,2016,Russia,3,0,2,6,Group Stage
+uefa euro,2016,Sweden,3,0,1,3,Group Stage
+uefa euro,2016,Turkey,3,1,2,4,Group Stage
+uefa euro,2016,Ukraine,3,0,0,5,Group Stage
+african cup of nations,2017,Cameroon,6,3,7,3,Champion
+african cup of nations,2017,Egypt,6,3,5,3,Runner-up
+african cup of nations,2017,Burkina Faso,6,3,8,3,Semi-Finalist
+african cup of nations,2017,Ghana,6,3,4,5,Semi-Finalist
+african cup of nations,2017,DR Congo,4,2,7,5,Quarter-Finalist
+african cup of nations,2017,Morocco,4,2,4,3,Quarter-Finalist
+african cup of nations,2017,Senegal,4,2,6,2,Quarter-Finalist
+african cup of nations,2017,Tunisia,4,2,6,7,Quarter-Finalist
+african cup of nations,2017,Algeria,3,0,5,6,Round of 16
+african cup of nations,2017,Gabon,3,0,2,2,Round of 16
+african cup of nations,2017,Guinea-Bissau,3,0,2,5,Round of 16
+african cup of nations,2017,Ivory Coast,3,0,2,3,Round of 16
+african cup of nations,2017,Mali,3,0,1,2,Round of 16
+african cup of nations,2017,Togo,3,0,2,6,Round of 16
+african cup of nations,2017,Uganda,3,0,1,3,Round of 16
+african cup of nations,2017,Zimbabwe,3,0,4,8,Round of 16
+gold cup,2017,United States,6,5,13,4,Champion
+gold cup,2017,Jamaica,6,3,7,4,Runner-up
+gold cup,2017,Costa Rica,5,3,6,3,Semi-Finalist
+gold cup,2017,Mexico,5,3,6,2,Semi-Finalist
+gold cup,2017,Canada,4,1,6,5,Quarter-Finalist
+gold cup,2017,El Salvador,4,1,4,6,Quarter-Finalist
+gold cup,2017,Honduras,4,0,0,2,Quarter-Finalist
+gold cup,2017,Panama,4,2,6,3,Quarter-Finalist
+gold cup,2017,Curaçao,3,0,0,6,Round of 16
+gold cup,2017,French Guiana,3,0,2,7,Round of 16
+gold cup,2017,Martinique,3,1,4,6,Round of 16
+gold cup,2017,Nicaragua,3,0,1,7,Round of 16
+fifa world cup,2018,France,7,6,14,6,Champion
+fifa world cup,2018,Croatia,7,4,14,9,Runner-up
+fifa world cup,2018,Belgium,7,6,16,6,Semi-Finalist
+fifa world cup,2018,England,7,3,12,8,Semi-Finalist
+fifa world cup,2018,Brazil,5,3,8,3,Quarter-Finalist
+fifa world cup,2018,Russia,5,2,11,7,Quarter-Finalist
+fifa world cup,2018,Sweden,5,3,6,4,Quarter-Finalist
+fifa world cup,2018,Uruguay,5,4,7,3,Quarter-Finalist
+fifa world cup,2018,Argentina,4,1,6,9,Round of 16
+fifa world cup,2018,Colombia,4,2,6,3,Round of 16
+fifa world cup,2018,Denmark,4,1,3,2,Round of 16
+fifa world cup,2018,Japan,4,1,6,7,Round of 16
+fifa world cup,2018,Mexico,4,2,3,6,Round of 16
+fifa world cup,2018,Portugal,4,1,6,6,Round of 16
+fifa world cup,2018,Spain,4,1,7,6,Round of 16
+fifa world cup,2018,Switzerland,4,1,5,5,Round of 16
+fifa world cup,2018,Australia,3,0,2,5,Group Stage
+fifa world cup,2018,Costa Rica,3,0,2,5,Group Stage
+fifa world cup,2018,Egypt,3,0,2,6,Group Stage
+fifa world cup,2018,Germany,3,1,2,4,Group Stage
+fifa world cup,2018,Iceland,3,0,2,5,Group Stage
+fifa world cup,2018,Iran,3,1,2,2,Group Stage
+fifa world cup,2018,Morocco,3,0,2,4,Group Stage
+fifa world cup,2018,Nigeria,3,1,3,4,Group Stage
+fifa world cup,2018,Panama,3,0,2,11,Group Stage
+fifa world cup,2018,Peru,3,1,2,2,Group Stage
+fifa world cup,2018,Poland,3,1,2,5,Group Stage
+fifa world cup,2018,Saudi Arabia,3,1,2,7,Group Stage
+fifa world cup,2018,Senegal,3,1,4,4,Group Stage
+fifa world cup,2018,Serbia,3,1,2,4,Group Stage
+fifa world cup,2018,South Korea,3,1,3,3,Group Stage
+fifa world cup,2018,Tunisia,3,1,5,8,Group Stage
+afc asian cup,2019,Qatar,7,7,19,1,Champion
+afc asian cup,2019,Japan,7,6,12,6,Runner-up
+afc asian cup,2019,Iran,6,4,12,3,Semi-Finalist
+afc asian cup,2019,United Arab Emirates,6,3,8,8,Semi-Finalist
+afc asian cup,2019,Australia,5,2,6,4,Quarter-Finalist
+afc asian cup,2019,China PR,5,3,7,7,Quarter-Finalist
+afc asian cup,2019,South Korea,5,4,6,2,Quarter-Finalist
+afc asian cup,2019,Vietnam,5,1,5,7,Quarter-Finalist
+afc asian cup,2019,Bahrain,4,1,3,4,Round of 16
+afc asian cup,2019,Iraq,4,2,6,3,Round of 16
+afc asian cup,2019,Jordan,4,2,4,1,Round of 16
+afc asian cup,2019,Kyrgyzstan,4,1,6,7,Round of 16
+afc asian cup,2019,Oman,4,1,4,6,Round of 16
+afc asian cup,2019,Saudi Arabia,4,2,6,3,Round of 16
+afc asian cup,2019,Thailand,4,1,4,7,Round of 16
+afc asian cup,2019,Uzbekistan,4,2,7,3,Round of 16
+afc asian cup,2019,India,3,1,4,4,Group Stage
+afc asian cup,2019,Lebanon,3,1,4,5,Group Stage
+afc asian cup,2019,North Korea,3,0,1,14,Group Stage
+afc asian cup,2019,Palestine,3,0,0,3,Group Stage
+afc asian cup,2019,Philippines,3,0,1,7,Group Stage
+afc asian cup,2019,Syria,3,0,2,5,Group Stage
+afc asian cup,2019,Turkmenistan,3,0,3,10,Group Stage
+afc asian cup,2019,Yemen,3,0,0,10,Group Stage
+african cup of nations,2019,Algeria,7,6,13,2,Champion
+african cup of nations,2019,Senegal,7,5,8,2,Runner-up
+african cup of nations,2019,Nigeria,7,5,9,7,Semi-Finalist
+african cup of nations,2019,Tunisia,7,1,6,5,Semi-Finalist
+african cup of nations,2019,Benin,5,0,3,4,Quarter-Finalist
+african cup of nations,2019,Ivory Coast,5,3,7,3,Quarter-Finalist
+african cup of nations,2019,Madagascar,5,2,7,7,Quarter-Finalist
+african cup of nations,2019,South Africa,5,2,3,4,Quarter-Finalist
+african cup of nations,2019,Cameroon,4,1,4,3,Round of 16
+african cup of nations,2019,DR Congo,4,1,6,6,Round of 16
+african cup of nations,2019,Egypt,4,3,5,1,Round of 16
+african cup of nations,2019,Ghana,4,1,5,3,Round of 16
+african cup of nations,2019,Guinea,4,1,4,6,Round of 16
+african cup of nations,2019,Mali,4,2,6,3,Round of 16
+african cup of nations,2019,Morocco,4,3,4,1,Round of 16
+african cup of nations,2019,Uganda,4,1,3,4,Round of 16
+african cup of nations,2019,Angola,3,0,1,2,Group Stage
+african cup of nations,2019,Burundi,3,0,0,4,Group Stage
+african cup of nations,2019,Guinea-Bissau,3,0,0,4,Group Stage
+african cup of nations,2019,Kenya,3,1,3,7,Group Stage
+african cup of nations,2019,Mauritania,3,0,1,4,Group Stage
+african cup of nations,2019,Namibia,3,0,1,6,Group Stage
+african cup of nations,2019,Tanzania,3,0,2,8,Group Stage
+african cup of nations,2019,Zimbabwe,3,0,1,6,Group Stage
+copa américa,2019,Brazil,6,4,13,1,Champion
+copa américa,2019,Peru,6,2,7,9,Runner-up
+copa américa,2019,Argentina,6,3,7,6,Semi-Finalist
+copa américa,2019,Chile,6,2,7,7,Semi-Finalist
+copa américa,2019,Colombia,4,3,4,0,Quarter-Finalist
+copa américa,2019,Paraguay,4,0,3,4,Quarter-Finalist
+copa américa,2019,Uruguay,4,2,7,2,Quarter-Finalist
+copa américa,2019,Venezuela,4,1,3,3,Quarter-Finalist
+copa américa,2019,Bolivia,3,0,2,9,Round of 16
+copa américa,2019,Ecuador,3,0,2,7,Round of 16
+copa américa,2019,Japan,3,0,3,7,Round of 16
+copa américa,2019,Qatar,3,0,2,5,Round of 16
+gold cup,2019,Mexico,6,5,16,4,Champion
+gold cup,2019,United States,6,5,15,2,Runner-up
+gold cup,2019,Haiti,5,4,9,5,Semi-Finalist
+gold cup,2019,Jamaica,5,2,6,6,Semi-Finalist
+gold cup,2019,Canada,4,2,14,6,Quarter-Finalist
+gold cup,2019,Costa Rica,4,2,8,4,Quarter-Finalist
+gold cup,2019,Curaçao,4,1,2,3,Quarter-Finalist
+gold cup,2019,Panama,4,2,6,4,Quarter-Finalist
+gold cup,2019,Bermuda,3,1,4,4,Round of 16
+gold cup,2019,Cuba,3,0,0,17,Round of 16
+gold cup,2019,El Salvador,3,1,1,4,Round of 16
+gold cup,2019,Guyana,3,0,3,9,Round of 16
+gold cup,2019,Honduras,3,1,6,4,Round of 16
+gold cup,2019,Martinique,3,1,5,7,Round of 16
+gold cup,2019,Nicaragua,3,0,0,8,Round of 16
+gold cup,2019,Trinidad and Tobago,3,0,1,9,Round of 16
+copa américa,2021,Argentina,7,5,12,3,Champion
+copa américa,2021,Brazil,7,5,12,3,Runner-up
+copa américa,2021,Colombia,7,2,7,7,Semi-Finalist
+copa américa,2021,Peru,7,2,10,14,Semi-Finalist
+copa américa,2021,Chile,5,1,3,5,Quarter-Finalist
+copa américa,2021,Ecuador,5,0,5,9,Quarter-Finalist
+copa américa,2021,Paraguay,5,2,8,6,Quarter-Finalist
+copa américa,2021,Uruguay,5,2,4,2,Quarter-Finalist
+copa américa,2021,Bolivia,4,0,2,10,Round of 16
+copa américa,2021,Venezuela,4,0,2,6,Round of 16
+gold cup,2021,United States,6,6,11,1,Champion
+gold cup,2021,Mexico,6,4,9,2,Runner-up
+gold cup,2021,Canada,5,3,11,5,Semi-Finalist
+gold cup,2021,Qatar,5,3,12,6,Semi-Finalist
+gold cup,2021,Costa Rica,4,3,6,4,Quarter-Finalist
+gold cup,2021,El Salvador,4,2,6,4,Quarter-Finalist
+gold cup,2021,Honduras,4,2,7,7,Quarter-Finalist
+gold cup,2021,Jamaica,4,2,4,3,Quarter-Finalist
+gold cup,2021,Grenada,3,0,1,11,Round of 16
+gold cup,2021,Guadeloupe,3,0,3,7,Round of 16
+gold cup,2021,Guatemala,3,0,1,6,Round of 16
+gold cup,2021,Haiti,3,1,3,6,Round of 16
+gold cup,2021,Martinique,3,0,3,12,Round of 16
+gold cup,2021,Panama,3,1,8,7,Round of 16
+gold cup,2021,Suriname,3,1,3,5,Round of 16
+gold cup,2021,Trinidad and Tobago,3,0,1,3,Round of 16
+uefa euro,2021,Italy,7,5,13,4,Champion
+uefa euro,2021,England,7,5,11,2,Runner-up
+uefa euro,2021,Denmark,6,3,12,7,Semi-Finalist
+uefa euro,2021,Spain,6,2,13,6,Semi-Finalist
+uefa euro,2021,Belgium,5,4,9,3,Quarter-Finalist
+uefa euro,2021,Czech Republic,5,2,6,4,Quarter-Finalist
+uefa euro,2021,Switzerland,5,1,8,9,Quarter-Finalist
+uefa euro,2021,Ukraine,5,2,6,10,Quarter-Finalist
+uefa euro,2021,Austria,4,2,5,5,Round of 16
+uefa euro,2021,Croatia,4,1,7,8,Round of 16
+uefa euro,2021,France,4,1,7,6,Round of 16
+uefa euro,2021,Germany,4,1,6,7,Round of 16
+uefa euro,2021,Netherlands,4,3,8,4,Round of 16
+uefa euro,2021,Portugal,4,1,7,7,Round of 16
+uefa euro,2021,Sweden,4,2,5,4,Round of 16
+uefa euro,2021,Wales,4,1,3,6,Round of 16
+uefa euro,2021,Finland,3,1,1,3,Group Stage
+uefa euro,2021,Hungary,3,0,3,6,Group Stage
+uefa euro,2021,North Macedonia,3,0,2,8,Group Stage
+uefa euro,2021,Poland,3,0,4,6,Group Stage
+uefa euro,2021,Russia,3,1,2,7,Group Stage
+uefa euro,2021,Scotland,3,0,1,5,Group Stage
+uefa euro,2021,Slovakia,3,1,2,7,Group Stage
+uefa euro,2021,Turkey,3,0,1,8,Group Stage
+african cup of nations,2022,Senegal,7,4,9,2,Champion
+african cup of nations,2022,Egypt,7,3,4,2,Runner-up
+african cup of nations,2022,Burkina Faso,7,2,9,10,Semi-Finalist
+african cup of nations,2022,Cameroon,7,4,14,7,Semi-Finalist
+african cup of nations,2022,Equatorial Guinea,5,2,3,4,Quarter-Finalist
+african cup of nations,2022,Gambia,5,3,4,3,Quarter-Finalist
+african cup of nations,2022,Morocco,5,3,8,5,Quarter-Finalist
+african cup of nations,2022,Tunisia,5,2,5,3,Quarter-Finalist
+african cup of nations,2022,Cape Verde,4,1,2,4,Round of 16
+african cup of nations,2022,Comoros,4,1,4,7,Round of 16
+african cup of nations,2022,Gabon,4,1,5,4,Round of 16
+african cup of nations,2022,Guinea,4,1,2,3,Round of 16
+african cup of nations,2022,Ivory Coast,4,2,6,3,Round of 16
+african cup of nations,2022,Malawi,4,1,3,4,Round of 16
+african cup of nations,2022,Mali,4,2,4,1,Round of 16
+african cup of nations,2022,Nigeria,4,3,6,2,Round of 16
+african cup of nations,2022,Algeria,3,0,1,4,Group Stage
+african cup of nations,2022,Ethiopia,3,0,2,6,Group Stage
+african cup of nations,2022,Ghana,3,0,3,5,Group Stage
+african cup of nations,2022,Guinea-Bissau,3,0,0,3,Group Stage
+african cup of nations,2022,Mauritania,3,0,0,7,Group Stage
+african cup of nations,2022,Sierra Leone,3,0,2,3,Group Stage
+african cup of nations,2022,Sudan,3,0,1,4,Group Stage
+african cup of nations,2022,Zimbabwe,3,1,3,4,Group Stage
+fifa world cup,2022,Argentina,7,4,15,8,Champion
+fifa world cup,2022,France,7,5,16,8,Runner-up
+fifa world cup,2022,Croatia,7,2,8,7,Semi-Finalist
+fifa world cup,2022,Morocco,7,3,6,5,Semi-Finalist
+fifa world cup,2022,Brazil,5,3,8,3,Quarter-Finalist
+fifa world cup,2022,England,5,3,13,4,Quarter-Finalist
+fifa world cup,2022,Netherlands,5,3,10,4,Quarter-Finalist
+fifa world cup,2022,Portugal,5,3,12,6,Quarter-Finalist
+fifa world cup,2022,Australia,4,2,4,6,Round of 16
+fifa world cup,2022,Japan,4,2,5,4,Round of 16
+fifa world cup,2022,Poland,4,1,3,5,Round of 16
+fifa world cup,2022,Senegal,4,2,5,7,Round of 16
+fifa world cup,2022,South Korea,4,1,5,8,Round of 16
+fifa world cup,2022,Spain,4,1,9,3,Round of 16
+fifa world cup,2022,Switzerland,4,2,5,9,Round of 16
+fifa world cup,2022,United States,4,1,3,4,Round of 16
+fifa world cup,2022,Belgium,3,1,1,2,Group Stage
+fifa world cup,2022,Cameroon,3,1,4,4,Group Stage
+fifa world cup,2022,Canada,3,0,2,7,Group Stage
+fifa world cup,2022,Costa Rica,3,1,3,11,Group Stage
+fifa world cup,2022,Denmark,3,0,1,3,Group Stage
+fifa world cup,2022,Ecuador,3,1,4,3,Group Stage
+fifa world cup,2022,Germany,3,1,6,5,Group Stage
+fifa world cup,2022,Ghana,3,1,5,7,Group Stage
+fifa world cup,2022,Iran,3,1,4,7,Group Stage
+fifa world cup,2022,Mexico,3,1,2,3,Group Stage
+fifa world cup,2022,Qatar,3,0,1,7,Group Stage
+fifa world cup,2022,Saudi Arabia,3,1,3,5,Group Stage
+fifa world cup,2022,Serbia,3,0,5,8,Group Stage
+fifa world cup,2022,Tunisia,3,1,1,1,Group Stage
+fifa world cup,2022,Uruguay,3,1,2,2,Group Stage
+fifa world cup,2022,Wales,3,0,1,6,Group Stage
+gold cup,2023,Mexico,6,5,13,2,Champion
+gold cup,2023,Panama,6,3,11,6,Runner-up
+gold cup,2023,Jamaica,5,3,11,5,Semi-Finalist
+gold cup,2023,United States,5,2,16,4,Semi-Finalist
+gold cup,2023,Canada,4,1,8,6,Quarter-Finalist
+gold cup,2023,Costa Rica,4,1,7,8,Quarter-Finalist
+gold cup,2023,Guatemala,4,2,4,3,Quarter-Finalist
+gold cup,2023,Qatar,4,1,3,7,Quarter-Finalist
+gold cup,2023,Cuba,3,0,3,9,Round of 16
+gold cup,2023,El Salvador,3,0,3,4,Round of 16
+gold cup,2023,Guadeloupe,3,1,8,6,Round of 16
+gold cup,2023,Haiti,3,1,4,6,Round of 16
+gold cup,2023,Honduras,3,1,3,6,Round of 16
+gold cup,2023,Martinique,3,1,7,9,Round of 16
+gold cup,2023,Saint Kitts and Nevis,3,0,0,14,Round of 16
+gold cup,2023,Trinidad and Tobago,3,1,4,10,Round of 16
+afc asian cup,2024,Qatar,7,6,14,5,Champion
+afc asian cup,2024,Jordan,7,4,13,8,Runner-up
+afc asian cup,2024,Iran,6,4,12,7,Semi-Finalist
+afc asian cup,2024,South Korea,6,2,11,10,Semi-Finalist
+afc asian cup,2024,Australia,5,3,9,3,Quarter-Finalist
+afc asian cup,2024,Japan,5,3,12,8,Quarter-Finalist
+afc asian cup,2024,Tajikistan,5,1,3,4,Quarter-Finalist
+afc asian cup,2024,Uzbekistan,5,2,7,3,Quarter-Finalist
+afc asian cup,2024,Bahrain,4,2,4,6,Round of 16
+afc asian cup,2024,Indonesia,4,1,3,10,Round of 16
+afc asian cup,2024,Iraq,4,3,10,7,Round of 16
+afc asian cup,2024,Palestine,4,1,6,7,Round of 16
+afc asian cup,2024,Saudi Arabia,4,2,5,2,Round of 16
+afc asian cup,2024,Syria,4,1,2,2,Round of 16
+afc asian cup,2024,Thailand,4,1,3,2,Round of 16
+afc asian cup,2024,United Arab Emirates,4,1,6,5,Round of 16
+afc asian cup,2024,China PR,3,0,0,1,Group Stage
+afc asian cup,2024,Hong Kong,3,0,1,7,Group Stage
+afc asian cup,2024,India,3,0,0,6,Group Stage
+afc asian cup,2024,Kyrgyzstan,3,0,1,5,Group Stage
+afc asian cup,2024,Lebanon,3,0,1,5,Group Stage
+afc asian cup,2024,Malaysia,3,0,3,8,Group Stage
+afc asian cup,2024,Oman,3,0,2,3,Group Stage
+afc asian cup,2024,Vietnam,3,0,4,8,Group Stage
+african cup of nations,2024,Ivory Coast,7,4,8,8,Champion
+african cup of nations,2024,Nigeria,7,4,8,4,Runner-up
+african cup of nations,2024,DR Congo,7,1,6,5,Semi-Finalist
+african cup of nations,2024,South Africa,7,2,7,3,Semi-Finalist
+african cup of nations,2024,Angola,5,3,9,4,Quarter-Finalist
+african cup of nations,2024,Cape Verde,5,3,8,3,Quarter-Finalist
+african cup of nations,2024,Guinea,5,2,4,6,Quarter-Finalist
+african cup of nations,2024,Mali,5,2,6,4,Quarter-Finalist
+african cup of nations,2024,Burkina Faso,4,1,4,6,Round of 16
+african cup of nations,2024,Cameroon,4,1,5,8,Round of 16
+african cup of nations,2024,Egypt,4,0,7,7,Round of 16
+african cup of nations,2024,Equatorial Guinea,4,2,9,4,Round of 16
+african cup of nations,2024,Mauritania,4,1,3,5,Round of 16
+african cup of nations,2024,Morocco,4,2,5,3,Round of 16
+african cup of nations,2024,Namibia,4,1,1,7,Round of 16
+african cup of nations,2024,Senegal,4,3,9,2,Round of 16
+african cup of nations,2024,Algeria,3,0,3,4,Group Stage
+african cup of nations,2024,Gambia,3,0,2,7,Group Stage
+african cup of nations,2024,Ghana,3,0,5,6,Group Stage
+african cup of nations,2024,Guinea-Bissau,3,0,2,7,Group Stage
+african cup of nations,2024,Mozambique,3,0,4,7,Group Stage
+african cup of nations,2024,Tanzania,3,0,1,4,Group Stage
+african cup of nations,2024,Tunisia,3,0,1,2,Group Stage
+african cup of nations,2024,Zambia,3,0,2,3,Group Stage
+copa américa,2024,Argentina,6,5,9,1,Champion
+copa américa,2024,Colombia,6,4,12,3,Runner-up
+copa américa,2024,Canada,6,1,4,7,Semi-Finalist
+copa américa,2024,Uruguay,6,3,10,4,Semi-Finalist
+copa américa,2024,Brazil,4,1,5,2,Quarter-Finalist
+copa américa,2024,Ecuador,4,1,5,4,Quarter-Finalist
+copa américa,2024,Panama,4,2,6,10,Quarter-Finalist
+copa américa,2024,Venezuela,4,3,7,2,Quarter-Finalist
+copa américa,2024,Bolivia,3,0,1,9,Round of 16
+copa américa,2024,Chile,3,0,0,1,Round of 16
+copa américa,2024,Costa Rica,3,1,2,4,Round of 16
+copa américa,2024,Jamaica,3,0,1,7,Round of 16
+copa américa,2024,Mexico,3,1,1,1,Round of 16
+copa américa,2024,Paraguay,3,0,3,8,Round of 16
+copa américa,2024,Peru,3,0,0,3,Round of 16
+copa américa,2024,United States,3,1,3,3,Round of 16
+uefa euro,2024,Spain,7,7,15,4,Champion
+uefa euro,2024,England,7,3,8,6,Runner-up
+uefa euro,2024,France,6,2,4,3,Semi-Finalist
+uefa euro,2024,Netherlands,6,3,10,7,Semi-Finalist
+uefa euro,2024,Germany,5,3,11,4,Quarter-Finalist
+uefa euro,2024,Portugal,5,2,5,3,Quarter-Finalist
+uefa euro,2024,Switzerland,5,2,8,4,Quarter-Finalist
+uefa euro,2024,Turkey,5,3,8,8,Quarter-Finalist
+uefa euro,2024,Austria,4,2,7,6,Round of 16
+uefa euro,2024,Belgium,4,1,2,2,Round of 16
+uefa euro,2024,Denmark,4,0,2,4,Round of 16
+uefa euro,2024,Georgia,4,1,5,8,Round of 16
+uefa euro,2024,Italy,4,1,3,5,Round of 16
+uefa euro,2024,Romania,4,1,4,6,Round of 16
+uefa euro,2024,Slovakia,4,1,4,5,Round of 16
+uefa euro,2024,Slovenia,4,0,2,2,Round of 16
+uefa euro,2024,Albania,3,0,3,5,Group Stage
+uefa euro,2024,Croatia,3,0,3,6,Group Stage
+uefa euro,2024,Czech Republic,3,0,3,5,Group Stage
+uefa euro,2024,Hungary,3,1,2,5,Group Stage
+uefa euro,2024,Poland,3,0,3,6,Group Stage
+uefa euro,2024,Scotland,3,0,2,7,Group Stage
+uefa euro,2024,Serbia,3,0,1,2,Group Stage
+uefa euro,2024,Ukraine,3,1,2,4,Group Stage
+gold cup,2025,Mexico,6,5,10,3,Champion
+gold cup,2025,United States,6,4,13,6,Runner-up
+gold cup,2025,Guatemala,5,2,6,6,Semi-Finalist
+gold cup,2025,Honduras,5,2,5,9,Semi-Finalist
+gold cup,2025,Canada,4,2,10,2,Quarter-Finalist
+gold cup,2025,Costa Rica,4,2,8,6,Quarter-Finalist
+gold cup,2025,Panama,4,3,11,4,Quarter-Finalist
+gold cup,2025,Saudi Arabia,4,1,2,4,Quarter-Finalist
+gold cup,2025,Curaçao,3,0,2,3,Round of 16
+gold cup,2025,Dominican Republic,3,0,3,5,Round of 16
+gold cup,2025,El Salvador,3,0,0,4,Round of 16
+gold cup,2025,Guadeloupe,3,0,5,10,Round of 16
+gold cup,2025,Haiti,3,0,2,4,Round of 16
+gold cup,2025,Jamaica,3,1,3,6,Round of 16
+gold cup,2025,Suriname,3,0,3,6,Round of 16
+gold cup,2025,Trinidad and Tobago,3,0,2,7,Round of 16

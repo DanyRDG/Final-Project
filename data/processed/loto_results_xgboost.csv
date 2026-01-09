@@ -1,0 +1,21 @@
+tournament,year,n_teams,accuracy_stage,mae_stage,accuracy_macro3,predicted_champion,actual_champion,champion_correct
+copa américa,2016,16,0.25,1.125,0.625,Argentina,Chile,False
+uefa euro,2016,24,0.4583333333333333,0.9166666666666666,0.7083333333333334,England,Portugal,False
+african cup of nations,2017,16,0.5,0.875,0.625,Cameroon,Cameroon,True
+gold cup,2017,12,0.25,1.0,0.8333333333333334,Panama,United States,False
+fifa world cup,2018,32,0.46875,0.9375,0.53125,Uruguay,France,False
+afc asian cup,2019,24,0.375,0.9166666666666666,0.5,Japan,Qatar,False
+african cup of nations,2019,24,0.375,1.0,0.5833333333333334,Tunisia,Algeria,False
+copa américa,2019,12,0.5,0.8333333333333334,0.6666666666666666,Colombia,Brazil,False
+gold cup,2019,16,0.375,0.875,0.75,Costa Rica,Mexico,False
+copa américa,2021,10,0.2,1.6,0.4,Paraguay,Argentina,False
+gold cup,2021,16,0.3125,1.0,0.75,Qatar,United States,False
+uefa euro,2021,24,0.375,0.8333333333333334,0.6666666666666666,Netherlands,Italy,False
+african cup of nations,2022,24,0.2916666666666667,1.1666666666666667,0.375,Tunisia,Senegal,False
+fifa world cup,2022,32,0.34375,1.0625,0.4375,Netherlands,Argentina,False
+gold cup,2023,16,0.5,0.75,0.75,Costa Rica,Mexico,False
+afc asian cup,2024,24,0.5,0.9166666666666666,0.5833333333333334,Oman,Qatar,False
+african cup of nations,2024,24,0.2916666666666667,1.25,0.4166666666666667,Ivory Coast,Ivory Coast,True
+copa américa,2024,16,0.4375,0.625,0.875,Colombia,Argentina,False
+uefa euro,2024,24,0.4166666666666667,0.75,0.6666666666666666,France,Spain,False
+gold cup,2025,16,0.5,0.875,0.625,Panama,Mexico,False
