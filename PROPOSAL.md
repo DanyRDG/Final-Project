@@ -1,76 +1,72 @@
-**Predicting International Football Success from Pre-Tournament Form**
-Statistical Analysis & Sports Data Visualization
+# **Predicting International Football Success from Pre-Tournament Data**
+**Statistical Analysis & Sports Data Visualization**
 
-Problem Statement/ Motivation
+---
+
+## Problem Statement / Motivation
 
 Football has always been my first passion, and before every major international tournament, I often find myself debating with friends about which team is most likely to win based on their recent performances. These discussions usually rely on intuition or subjective impressions of “form”, but there is rarely a quantitative basis for such claims.
 
-This goal of this project is to determine whether the recent form of national teams before major international tournaments can predict their future success or even identify the future winner of the cup.
+The goal of this project is to examine whether pre-tournament information can be used to predict how national teams perform in major international tournaments and which model of machine-learning works the best. More specifically, the project investigates whether data available before a tournament starts can help anticipate tournament outcomes, including identifying teams likely to make deep runs or win the competition. Using historical international football data from the Kaggle dataset “International Football Results from 1872 to 2025”, the analysis focuses on tournaments from the modern football era (2000 onward).
 
-I will use open historical football data from the Kaggle dataset “International Football Results from 1872 to 2025,” the analysis will focus on how a team’s pre-tournament performance measured by metrics such as average goals scored, conceded, win rates, etc.. before a tournament can anticipate which teams perform best.
+---
 
-Planned Approach & Technologies
+## Planned Approach & Technologies
 
-The project will use Python (pandas, NumPy, matplotlib, statsmodels) for data processing, statistical modeling and visualization if possible.
-Data preparation:
+The project is implemented entirely in Python, using libraries such as pandas and NumPy for data processing, matplotlib for visualization, and scikit-learn and XGBoost for predictive modeling.
 
-• Filter international matches keeping only the games from 2000 and onward.
+### Data Preparation
 
-• Identify major tournaments (World Cup, Euro, Copa América, African Cup of Nations, etc...) to then create a dataset with the resutls of those tournaments since 2010.
+- Filter international matches keeping only the games from 2000 and onward.
+- Identify major tournaments (World Cup, Euro, Copa América, African Cup of Nations, etc...) to then create a dataset with the results of those tournaments since 2010.
+- Create an elo system for every national team.
+- Compute pre-tournament “form metrics” based on each team’s N (Most likely 12) games before the competition like:
+  - Team's pre-tournament elo
+  - Win rate
+  - Average goal scored/game
+  - Average goal conceded/game
+  - Goal difference/game
+  - Average elo of opponents on those N games
 
-• Create an elo system for every national team
+I will also use a dataset that I will create about the group composition of each tournaments based on the processed dataset imported to compute those metrics:
+ - Average Elo of teams within the group
+ - Maximum Elo in the group
+ - Team’s Elo relative to the group average
+ - Team’s Elo rank within the group
 
-• Compute pre-tournament “form metrics” based on each team’s N (Most likely 12) games before the competition like:
+---
 
-o Team's pre-tournament elo
+## Modeling & Analysis
 
-o Win rate
+-Define the target variable as the tournament stage reached by each team: Champion, Runner-up, Semi-Finalist, Quarter-Finalist, Round of 16, or Group Stage.
+-Introduce an additional aggregated evaluation with three macro categories: Deep Run, Knockouts, and Group Stage.
+-Train and compare three classification models:
+ -Multinomial Logistic Regression
+ -Random Forest
+ -Gradient Boosting (XGBoost)
+-Apply a Leave-One-Tournament-Out (LOTO) validation strategy, where each tournament from 2016 onward is predicted using only earlier tournaments as training data.
+- Visualize results using confusion matrices, feature importance plots, correlation heatmaps, and tournament-level performance comparisons.
 
-o Average goal scored/game
+---
 
-o Average goal conceded/game
+## Expected Challenges & Mitigation
 
-o Goal difference/game
+- Missing contextual factors: External influences like injuries, travel, or team chemistry aren’t captured in the dataset.
+- Ambiguity in defining “form”: Compare multiple definitions (last 5 vs. 10 games, weighted by opponent quality).
+- Small number of tournaments
+- Tournaments have small number of games per team, anything can happen
 
-o Average elo of opponents on those N games
+---
 
-I will also use the infos we have before the tournaments as the groups composition to use those metrics:
-
-o Elo average of opponents inside the group
-
-o Elo rank inside the group
-
-Modeling & Analysis
-
-• Define the target variable as the level of success (Winner / Finalist / Semifinalist / Round of 16 / Group stage etc). Then those will be redifined as "Deep run" "Knockouts" or "Group stage2
-
-• To determine how well form metrics predict success, use logistic or ordinal regression and correlation analysis.
-
-• Test the model on previous tournaments to evaluate predictive robustness.
-
-• I’ll use a leave-one-tournament-out validation approach. This way, the model trains on all but one tournament and tests on the remaining one, rotating each time.
-
-• Visualize trends with heatmaps, regression plots, and performance distributions for champions vs. others.
-
-Expected Challenges & Mitigation
-
-• Missing contextual factors: External influences like injuries, travel, or team
-chemistry aren’t captured in the dataset.
-
-• Ambiguity in defining “form”: Compare multiple definitions (last 5 vs. 10 games, weighted by opponent quality).
-
-• Small number of tournaments
-
-• Tournaments have small number of games per team, anything can happen 
-
-Success Criteria
+## Success Criteria
 
 The project will be successful if:
+-It demonstrates measurable relationships between pre-tournament features and tournament outcomes.
+-The models show consistent predictive performance across different competitions.
+-The approach provides interpretable insights into which factors are most strongly associated with tournament success.
 
-• It produces clear quantitative evidence (correlations, regression coefficients) about the impact of pre-tournament form.
+---
 
-• The predictive model achieves consistent accuracy across different competitions.
+## Stretch Goals (If Time Permits)
 
-Stretch Goals (if time permits)
-
-• Extend the analysis to tournaments after 2025 and try to predict the winner of the next world cup in 2026.
+- Extend the analysis to tournaments after 2025 and try to predict the winner of the next world cup in 2026.
