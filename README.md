@@ -20,6 +20,8 @@ The pipeline is implemented in main.py as follows:
  11. Generate all visualizations
 
 --- 
+## **How to download the raw dataset?**
+As you just read earlier, my main.py runs a downloading code for the dataset, nothing to worry about that
 
 ## **Setup**
 
@@ -38,7 +40,10 @@ conda activate football-project
 ```bash
 python main.py
 ```
-
+### **Other method**
+```bash
+pip install -r requirements.txt
+```
 ---
 
 ## **Requirements**
@@ -83,18 +88,21 @@ After running the full pipeline the following result outputs are geenrated:
 ## **Final end structure**
 ```bash
 Final-Project/
+│
+├── .gitignore                              # Git ignore rules
 ├── main.py                                 # Main entry point (runs full pipeline)
 ├── environment.yml                         # Conda environment specification
 ├── requirements.txt                        # pip dependencies
 ├── README.md                               # Project documentation
 ├── PROPOSAL.md                             # Initial project proposal
+├── project_report.pdf                      # Final project report
 │
 ├── src/                                    # Source code
 │   ├── __init__.py                         # Package initializer
 │   ├── data_loading_cleaning.py            # Raw data loading and cleaning
 │   ├── elo_calculator.py                   # Elo rating computation
 │   ├── features.py                         # Feature engineering
-│   ├── group_stage_composition_builder.py  # Group-stage reconstruction
+│   ├── group_stage_composition_builder.py  # Group stage reconstruction
 │   ├── models.py                           # Model training and evaluation
 │   ├── tournament_builder.py               # Tournament structure creation
 │   ├── tournament_results_builder.py       # Tournament results processing
@@ -108,8 +116,8 @@ Final-Project/
 │   │
 │   └── processed/                          # Processed datasets (generated)
 │
-├── results/                                # Model outputs
-│   ├── models/                             # Trained models and scalers
-│   ├── predictions/                        # Prediction outputs
-│   └── visualizations/                     # Figures and plots
+└── results/                                # Model outputs
+    ├── models/                             # Trained models and scalers
+    ├── predictions/                        # Prediction outputs
+    └── visualizations/                     # Figures and plots
 ```
