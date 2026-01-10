@@ -42,16 +42,16 @@ python main.py
 ---
 
 ## **Requirements**
- -Python
- -pandas
- -numpy
- -matplotlib
- -seaborn
- -scikit-learn>=1.2.2
- -xgboost
- -joblib
- -requests
- -statsmodels
+ - Python
+ - pandas
+ - numpy
+ - matplotlib
+ - seaborn
+ - scikit-learn>=1.2.2
+ - xgboost
+ - joblib
+ - requests
+ - statsmodels
 
 ---
 
@@ -59,24 +59,24 @@ python main.py
 After running the full pipeline the following result outputs are geenrated:
 
 ### **/results/models/**
- -logreg_model.joblib
- -logreg_scaler.joblib
- -randomforest_model.joblib
- -randomforest_scaler.joblib
- -xgboost_model.joblib
- -xgboost_scaler.joblib
+ - logreg_model.joblib
+ - logreg_scaler.joblib
+ - randomforest_model.joblib
+ - randomforest_scaler.joblib
+ - xgboost_model.joblib
+ - xgboost_scaler.joblib
 
 ### **/results/predictions/**
- -predictions_worldcup2026.csv
+ - predictions_worldcup2026.csv
 
 ### **/results/visualizations/**
- -confusion_matrix_aggregated_logreg.png
- -confusion_matrix_detailed_logreg.png
- -correlation_matrix.png
- -feature_importance_logreg.png
- -top10_champion_probability_2026.png
- -top10_tournament_success_2026.png
- -tournament_performance_logreg.png
+ - confusion_matrix_aggregated_logreg.png
+ - confusion_matrix_detailed_logreg.png
+ - correlation_matrix.png
+ - feature_importance_logreg.png
+ - top10_champion_probability_2026.png
+ - top10_tournament_success_2026.png
+ - tournament_performance_logreg.png
 
 ---
  
