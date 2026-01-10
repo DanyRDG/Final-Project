@@ -79,4 +79,37 @@ After running the full pipeline the following result outputs are geenrated:
  - tournament_performance_logreg.png
 
 ---
- 
+
+## **Final end structure**
+```bash
+Final-Project/
+├── main.py                                 # Main entry point (runs full pipeline)
+├── environment.yml                         # Conda environment specification
+├── requirements.txt                        # pip dependencies
+├── README.md                               # Project documentation
+├── PROPOSAL.md                             # Initial project proposal
+│
+├── src/                                    # Source code
+│   ├── __init__.py                         # Package initializer
+│   ├── data_loading_cleaning.py            # Raw data loading and cleaning
+│   ├── elo_calculator.py                   # Elo rating computation
+│   ├── features.py                         # Feature engineering
+│   ├── group_stage_composition_builder.py  # Group-stage reconstruction
+│   ├── models.py                           # Model training and evaluation
+│   ├── tournament_builder.py               # Tournament structure creation
+│   ├── tournament_results_builder.py       # Tournament results processing
+│   ├── Visualization.py                    # Data visualization utilities
+│   └── World_Cup2026.py                    # 2026 World Cup predictions
+│
+├── data/                                   # Data directory
+│   ├── raw/                                # Raw, unprocessed data
+│   │   ├── results.csv
+│   │   └── shootouts.csv
+│   │
+│   └── processed/                          # Processed datasets (generated)
+│
+├── results/                                # Model outputs
+│   ├── models/                             # Trained models and scalers
+│   ├── predictions/                        # Prediction outputs
+│   └── visualizations/                     # Figures and plots
+```
